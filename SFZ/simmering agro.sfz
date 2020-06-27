@@ -1,0 +1,124 @@
+// this file was generated from simmering agro.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=469 end=499455 loop_mode=loop_sustain loop_start=25732 loop_end=152587 sample=../Audio/simmering agro-SAMPLES/simmering agro -36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=609 end=504831 loop_mode=loop_sustain loop_start=101417 loop_end=221145 sample=../Audio/simmering agro-SAMPLES/simmering agro -37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=448 end=501759 loop_mode=loop_sustain loop_start=148725 loop_end=336858 sample=../Audio/simmering agro-SAMPLES/simmering agro -38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=626 end=499967 loop_mode=loop_sustain loop_start=179135 loop_end=326615 sample=../Audio/simmering agro-SAMPLES/simmering agro -39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=291 end=501759 loop_mode=loop_sustain loop_start=225417 loop_end=346928 sample=../Audio/simmering agro-SAMPLES/simmering agro -40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=499 end=503551 loop_mode=loop_sustain loop_start=167893 loop_end=288688 sample=../Audio/simmering agro-SAMPLES/simmering agro -41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=335 end=500479 loop_mode=loop_sustain loop_start=178979 loop_end=335929 sample=../Audio/simmering agro-SAMPLES/simmering agro -42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=551 end=503551 loop_mode=loop_sustain loop_start=118129 loop_end=246006 sample=../Audio/simmering agro-SAMPLES/simmering agro -43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=563 end=499199 loop_mode=loop_sustain loop_start=181104 loop_end=287801 sample=../Audio/simmering agro-SAMPLES/simmering agro -44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=548 end=503039 loop_mode=loop_sustain loop_start=43099 loop_end=170295 sample=../Audio/simmering agro-SAMPLES/simmering agro -45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=372 end=500991 loop_mode=loop_sustain loop_start=69330 loop_end=188246 sample=../Audio/simmering agro-SAMPLES/simmering agro -46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=303 end=500223 loop_mode=loop_sustain loop_start=32962 loop_end=159856 sample=../Audio/simmering agro-SAMPLES/simmering agro -47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=439 end=501759 loop_mode=loop_sustain loop_start=147400 loop_end=269196 sample=../Audio/simmering agro-SAMPLES/simmering agro -48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=128 end=502527 loop_mode=loop_sustain loop_start=109518 loop_end=189458 sample=../Audio/simmering agro-SAMPLES/simmering agro -49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=631 end=500479 loop_mode=loop_sustain loop_start=221171 loop_end=310132 sample=../Audio/simmering agro-SAMPLES/simmering agro -50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=457 end=502015 loop_mode=loop_sustain loop_start=123144 loop_end=206265 sample=../Audio/simmering agro-SAMPLES/simmering agro -51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=617 end=501503 loop_mode=loop_sustain loop_start=108395 loop_end=188198 sample=../Audio/simmering agro-SAMPLES/simmering agro -52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=283 end=504319 loop_mode=loop_sustain loop_start=179880 loop_end=293857 sample=../Audio/simmering agro-SAMPLES/simmering agro -53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=429 end=500223 loop_mode=loop_sustain loop_start=107120 loop_end=190379 sample=../Audio/simmering agro-SAMPLES/simmering agro -54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=529 end=504063 loop_mode=loop_sustain loop_start=182700 loop_end=331972 sample=../Audio/simmering agro-SAMPLES/simmering agro -55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=318 end=500479 loop_mode=loop_sustain loop_start=265137 loop_end=343128 sample=../Audio/simmering agro-SAMPLES/simmering agro -56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=363 end=501247 loop_mode=loop_sustain loop_start=182590 loop_end=261025 sample=../Audio/simmering agro-SAMPLES/simmering agro -57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=395 end=503551 loop_mode=loop_sustain loop_start=70832 loop_end=146568 sample=../Audio/simmering agro-SAMPLES/simmering agro -58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=571 end=502783 loop_mode=loop_sustain loop_start=186140 loop_end=264045 sample=../Audio/simmering agro-SAMPLES/simmering agro -59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=520 end=499711 loop_mode=loop_sustain loop_start=129126 loop_end=208730 sample=../Audio/simmering agro-SAMPLES/simmering agro -60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=275 end=501503 loop_mode=loop_sustain loop_start=72294 loop_end=163680 sample=../Audio/simmering agro-SAMPLES/simmering agro -61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=689 end=501247 loop_mode=loop_sustain loop_start=152453 loop_end=292950 sample=../Audio/simmering agro-SAMPLES/simmering agro -62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=439 end=501247 loop_mode=loop_sustain loop_start=224772 loop_end=314124 sample=../Audio/simmering agro-SAMPLES/simmering agro -63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=278 end=500735 loop_mode=loop_sustain loop_start=219762 loop_end=311726 sample=../Audio/simmering agro-SAMPLES/simmering agro -64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=519 end=500991 loop_mode=loop_sustain loop_start=171180 loop_end=261021 sample=../Audio/simmering agro-SAMPLES/simmering agro -65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=341 end=503295 loop_mode=loop_sustain loop_start=36747 loop_end=135978 sample=../Audio/simmering agro-SAMPLES/simmering agro -66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=372 end=502527 loop_mode=loop_sustain loop_start=162604 loop_end=248476 sample=../Audio/simmering agro-SAMPLES/simmering agro -67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=606 end=498431 loop_mode=loop_sustain loop_start=226070 loop_end=331787 sample=../Audio/simmering agro-SAMPLES/simmering agro -68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=571 end=500735 loop_mode=loop_sustain loop_start=241816 loop_end=362461 sample=../Audio/simmering agro-SAMPLES/simmering agro -69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=485 end=500223 loop_mode=loop_sustain loop_start=193182 loop_end=293810 sample=../Audio/simmering agro-SAMPLES/simmering agro -70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=427 end=500479 loop_mode=loop_sustain loop_start=77078 loop_end=168113 sample=../Audio/simmering agro-SAMPLES/simmering agro -71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=614 end=501247 loop_mode=loop_sustain loop_start=131193 loop_end=210978 sample=../Audio/simmering agro-SAMPLES/simmering agro -72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=381 end=504063 loop_mode=loop_sustain loop_start=139541 loop_end=229809 sample=../Audio/simmering agro-SAMPLES/simmering agro -73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=296 end=500991 loop_mode=loop_sustain loop_start=110579 loop_end=230415 sample=../Audio/simmering agro-SAMPLES/simmering agro -74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=641 end=501759 loop_mode=loop_sustain loop_start=144038 loop_end=228073 sample=../Audio/simmering agro-SAMPLES/simmering agro -75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=473 end=500991 loop_mode=loop_sustain loop_start=164471 loop_end=246539 sample=../Audio/simmering agro-SAMPLES/simmering agro -76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=475 end=504575 loop_mode=loop_sustain loop_start=142745 loop_end=232962 sample=../Audio/simmering agro-SAMPLES/simmering agro -77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=435 end=500479 loop_mode=loop_sustain loop_start=133251 loop_end=212208 sample=../Audio/simmering agro-SAMPLES/simmering agro -78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=400 end=500223 loop_mode=loop_sustain loop_start=153987 loop_end=235820 sample=../Audio/simmering agro-SAMPLES/simmering agro -79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=593 end=500735 loop_mode=loop_sustain loop_start=237708 loop_end=358450 sample=../Audio/simmering agro-SAMPLES/simmering agro -80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=486 end=501759 loop_mode=loop_sustain loop_start=175124 loop_end=287647 sample=../Audio/simmering agro-SAMPLES/simmering agro -81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=587 end=501503 loop_mode=loop_sustain loop_start=210113 loop_end=295162 sample=../Audio/simmering agro-SAMPLES/simmering agro -82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=433 end=502527 loop_mode=loop_sustain loop_start=204240 loop_end=333295 sample=../Audio/simmering agro-SAMPLES/simmering agro -83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=419 end=501503 loop_mode=loop_sustain loop_start=136019 loop_end=215001 sample=../Audio/simmering agro-SAMPLES/simmering agro -84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=516 end=504831 loop_mode=loop_sustain loop_start=232620 loop_end=353608 sample=../Audio/simmering agro-SAMPLES/simmering agro -85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=449 end=499967 loop_mode=loop_sustain loop_start=135190 loop_end=227338 sample=../Audio/simmering agro-SAMPLES/simmering agro -86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=435 end=500223 loop_mode=loop_sustain loop_start=41851 loop_end=169001 sample=../Audio/simmering agro-SAMPLES/simmering agro -87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=543 end=502015 loop_mode=loop_sustain loop_start=155204 loop_end=267582 sample=../Audio/simmering agro-SAMPLES/simmering agro -88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=486 end=502271 loop_mode=loop_sustain loop_start=233185 loop_end=362323 sample=../Audio/simmering agro-SAMPLES/simmering agro -89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=597 end=501759 loop_mode=loop_sustain loop_start=153400 loop_end=274020 sample=../Audio/simmering agro-SAMPLES/simmering agro -90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=801 end=501503 loop_mode=loop_sustain loop_start=203937 loop_end=294075 sample=../Audio/simmering agro-SAMPLES/simmering agro -91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=545 end=500735 loop_mode=loop_sustain loop_start=55964 loop_end=211564 sample=../Audio/simmering agro-SAMPLES/simmering agro -92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=477 end=502527 loop_mode=loop_sustain loop_start=141914 loop_end=242056 sample=../Audio/simmering agro-SAMPLES/simmering agro -93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=419 end=500479 loop_mode=loop_sustain loop_start=262082 loop_end=354256 sample=../Audio/simmering agro-SAMPLES/simmering agro -94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=500 end=500735 loop_mode=loop_sustain loop_start=221150 loop_end=334843 sample=../Audio/simmering agro-SAMPLES/simmering agro -95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=602 end=502783 loop_mode=loop_sustain loop_start=137093 loop_end=264131 sample=../Audio/simmering agro-SAMPLES/simmering agro -96-127.wav

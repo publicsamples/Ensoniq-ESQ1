@@ -1,0 +1,124 @@
+// this file was generated from Fuzz Pad .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=279 end=614527 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=333 end=616767 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=373 end=600831 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=523 end=636223 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=345 end=603135 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=282 end=613567 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=459 end=614911 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=437 end=595775 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=409 end=621055 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=491 end=611519 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=341 end=614719 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=404 end=642943 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=535 end=623615 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=395 end=628223 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=323 end=623103 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=457 end=615935 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=330 end=616127 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=329 end=612543 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=378 end=592767 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=378 end=644799 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=335 end=604735 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=403 end=595263 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=336 end=597887 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=294 end=580543 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=293 end=597759 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=470 end=589951 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=356 end=580351 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=435 end=636287 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=393 end=607487 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=363 end=605439 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=345 end=602431 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=410 end=603839 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=451 end=617535 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=376 end=603647 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=438 end=596607 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=311 end=635199 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=274 end=618879 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=409 end=611583 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=402 end=617919 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=360 end=601599 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=334 end=601599 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=407 end=596223 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=409 end=593791 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=483 end=633663 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=398 end=612287 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=397 end=615231 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=435 end=620095 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=343 end=601791 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=356 end=608511 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=220 end=603903 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=350 end=594879 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=363 end=634623 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=476 end=600639 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=390 end=595455 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=218 end=605695 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=343 end=594303 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=358 end=599871 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=365 end=596607 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=417 end=589823 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=422 end=632191 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=346 end=603263 sample=../Audio/Fuzz Pad 1-SAMPLES/Fuzz Pad-96-127.wav

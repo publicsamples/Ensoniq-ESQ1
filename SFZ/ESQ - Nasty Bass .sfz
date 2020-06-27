@@ -1,0 +1,185 @@
+// this file was generated from ESQ - Nasty Bass .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=483 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-36-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=447 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-36-127.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=430 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-37-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=435 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-37-127.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=490 end=243199 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-38-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=460 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=347 end=242943 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-39-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=414 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=348 end=242687 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-40-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=406 end=243199 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=593 end=244735 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-41-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=523 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=646 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-42-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=444 end=244735 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=484 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-43-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=423 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=537 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-44-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=425 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=596 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-45-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=494 end=243455 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=428 end=243199 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-46-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=455 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=544 end=243455 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-47-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=597 end=244735 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=661 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-48-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=523 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=529 end=244735 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-49-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=433 end=243199 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=377 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-50-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=415 end=243199 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=529 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-51-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=357 end=242943 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=628 end=244735 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-52-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=541 end=243199 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=458 end=245247 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-53-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=473 end=243455 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=474 end=243455 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-54-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=611 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=505 end=244735 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-55-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=389 end=243455 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=414 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-56-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=623 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=442 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-57-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=487 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=451 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-58-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=446 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=535 end=243455 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-59-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=621 end=244735 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=649 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-60-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=630 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=610 end=244735 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-61-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=433 end=244991 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=551 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-62-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=515 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=508 end=244735 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-63-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=528 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=399 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-64-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=518 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=493 end=245247 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-65-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=482 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=514 end=245247 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-66-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=435 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=347 end=245247 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-67-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=483 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=384 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-68-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=421 end=243455 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=351 end=243455 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-69-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=553 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=649 end=244991 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-70-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=513 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=423 end=243455 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-71-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=557 end=243199 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=520 end=242943 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-72-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=589 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=446 end=244735 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-73-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=555 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=397 end=244991 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-74-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=496 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=462 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-75-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=350 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=401 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-76-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=547 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=565 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-77-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=427 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=436 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-78-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=508 end=242687 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=455 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-79-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=413 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=499 end=243199 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-80-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=448 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=570 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-81-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=618 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=593 end=244991 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-82-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=447 end=244735 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=610 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-83-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=534 end=242943 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=469 end=243455 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-84-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=570 end=243199 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=460 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-85-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=510 end=244991 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=511 end=244991 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-86-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=476 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=728 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-87-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=457 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=528 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-88-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=471 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=682 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-89-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=551 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=583 end=244991 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-90-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=552 end=243199 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=606 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-91-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=598 end=243199 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=603 end=242431 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-92-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=529 end=241663 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=469 end=243967 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-93-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=444 end=242943 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=395 end=243711 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-94-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=570 end=244223 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=653 end=244479 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-95-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=700 end=241919 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=623 end=242175 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-96-64.wav
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=489 end=241151 sample=../Audio/ESQ - Nasty Bass 1-SAMPLES/ESQ - Nasty Bass-96-127.wav

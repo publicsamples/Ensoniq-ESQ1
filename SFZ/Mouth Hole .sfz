@@ -1,0 +1,124 @@
+// this file was generated from Mouth Hole .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=527 end=545279 loop_mode=loop_sustain loop_start=11442 loop_end=310558 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-36-127_0001.wav
+<group> key=37  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=418 end=546559 loop_mode=loop_sustain loop_start=63714 loop_end=366705 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-37-127_0001.wav
+<group> key=38  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=581 end=547327 loop_mode=loop_sustain loop_start=51400 loop_end=308587 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-38-127.wav
+<group> key=39  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=591 end=546303 loop_mode=loop_sustain loop_start=162154 loop_end=404775 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-39-127.wav
+<group> key=40  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=586 end=546559 loop_mode=loop_sustain loop_start=131115 loop_end=372756 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-40-127.wav
+<group> key=41  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=386 end=545791 loop_mode=loop_sustain loop_start=34823 loop_end=259023 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-41-127.wav
+<group> key=42  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=553 end=581119 loop_mode=loop_sustain loop_start=28326 loop_end=430831 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-42-127.wav
+<group> key=43  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=297 end=561407 loop_mode=loop_sustain loop_start=118365 loop_end=318072 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-43-127.wav
+<group> key=44  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=547 end=548095 loop_mode=loop_sustain loop_start=46304 loop_end=433316 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-44-127.wav
+<group> key=45  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=558 end=546559 loop_mode=loop_sustain loop_start=96499 loop_end=295201 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-45-127.wav
+<group> key=46  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=517 end=546815 loop_mode=loop_sustain loop_start=40416 loop_end=379439 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-46-127.wav
+<group> key=47  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=594 end=548351 loop_mode=loop_sustain loop_start=97052 loop_end=438172 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-47-127.wav
+<group> key=48  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=529 end=546047 loop_mode=loop_sustain loop_start=25440 loop_end=196548 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-48-127.wav
+<group> key=49  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=556 end=546303 loop_mode=loop_sustain loop_start=143291 loop_end=442149 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-49-127.wav
+<group> key=50  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=537 end=548607 loop_mode=loop_sustain loop_start=267331 loop_end=399397 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-50-127.wav
+<group> key=51  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=480 end=551167 loop_mode=loop_sustain loop_start=16433 loop_end=376939 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-51-127.wav
+<group> key=52  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=454 end=547071 loop_mode=loop_sustain loop_start=142290 loop_end=262150 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-52-127.wav
+<group> key=53  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=517 end=547071 loop_mode=loop_sustain loop_start=149284 loop_end=367434 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-53-127.wav
+<group> key=54  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=623 end=546815 loop_mode=loop_sustain loop_start=267096 loop_end=376697 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-54-127.wav
+<group> key=55  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=549 end=546047 loop_mode=loop_sustain loop_start=143066 loop_end=343670 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-55-127.wav
+<group> key=56  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=636 end=546559 loop_mode=loop_sustain loop_start=177083 loop_end=361391 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-56-127.wav
+<group> key=57  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=432 end=546303 loop_mode=loop_sustain loop_start=31730 loop_end=374875 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-57-127.wav
+<group> key=58  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=650 end=548351 loop_mode=loop_sustain loop_start=131536 loop_end=302457 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-58-127.wav
+<group> key=59  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=397 end=549375 loop_mode=loop_sustain loop_start=18593 loop_end=339198 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-59-127.wav
+<group> key=60  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=500 end=546047 loop_mode=loop_sustain loop_start=1884 loop_end=227017 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-60-127.wav
+<group> key=61  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=520 end=547583 loop_mode=loop_sustain loop_start=84614 loop_end=225854 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-61-127.wav
+<group> key=62  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=606 end=547583 loop_mode=loop_sustain loop_start=73836 loop_end=353497 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-62-127.wav
+<group> key=63  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=465 end=547071 loop_mode=loop_sustain loop_start=246886 loop_end=372665 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-63-127.wav
+<group> key=64  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=598 end=547839 loop_mode=loop_sustain loop_start=140124 loop_end=320328 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-64-127.wav
+<group> key=65  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=530 end=546815 loop_mode=loop_sustain loop_start=200433 loop_end=314023 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-65-127.wav
+<group> key=66  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=406 end=548607 loop_mode=loop_sustain loop_start=41667 loop_end=205593 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-66-127.wav
+<group> key=67  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=489 end=546303 loop_mode=loop_sustain loop_start=92277 loop_end=242029 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-67-127.wav
+<group> key=68  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=566 end=545023 loop_mode=loop_sustain loop_start=277560 loop_end=373924 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-68-127.wav
+<group> key=69  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=612 end=549631 loop_mode=loop_sustain loop_start=21680 loop_end=110646 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-69-127.wav
+<group> key=70  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=655 end=547071 loop_mode=loop_sustain loop_start=1368 loop_end=167059 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-70-127.wav
+<group> key=71  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=551 end=546559 loop_mode=loop_sustain loop_start=140246 loop_end=373042 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-71-127.wav
+<group> key=72  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=385 end=545535 loop_mode=loop_sustain loop_start=1148 loop_end=113715 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-72-127.wav
+<group> key=73  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=517 end=549375 loop_mode=loop_sustain loop_start=1158 loop_end=138583 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-73-127.wav
+<group> key=74  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=488 end=546559 loop_mode=loop_sustain loop_start=65683 loop_end=232613 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-74-127.wav
+<group> key=75  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=481 end=548863 loop_mode=loop_sustain loop_start=2910 loop_end=255972 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-75-127.wav
+<group> key=76  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=547 end=545791 loop_mode=loop_sustain loop_start=25532 loop_end=172114 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-76-127.wav
+<group> key=77  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=650 end=546559 loop_mode=loop_sustain loop_start=135952 loop_end=250304 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-77-127.wav
+<group> key=78  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=435 end=545791 loop_mode=loop_sustain loop_start=16893 loop_end=364039 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-78-127.wav
+<group> key=79  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=415 end=546047 loop_mode=loop_sustain loop_start=2118 loop_end=100188 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-79-127.wav
+<group> key=80  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=607 end=546559 loop_mode=loop_sustain loop_start=141739 loop_end=235997 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-80-127.wav
+<group> key=81  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=486 end=546815 loop_mode=loop_sustain loop_start=137767 loop_end=226926 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-81-127.wav
+<group> key=82  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=442 end=546559 loop_mode=loop_sustain loop_start=48360 loop_end=195860 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-82-127.wav
+<group> key=83  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=280 end=546559 loop_mode=loop_sustain loop_start=165669 loop_end=342744 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-83-127.wav
+<group> key=84  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=732 end=548607 loop_mode=loop_sustain loop_start=1617 loop_end=114336 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-84-127.wav
+<group> key=85  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=519 end=546815 loop_mode=loop_sustain loop_start=201450 loop_end=342831 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-85-127.wav
+<group> key=86  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=404 end=548095 loop_mode=loop_sustain loop_start=19362 loop_end=186289 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-86-127.wav
+<group> key=87  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=565 end=548351 loop_mode=loop_sustain loop_start=5752 loop_end=130583 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-87-127.wav
+<group> key=88  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=553 end=547071 loop_mode=loop_sustain loop_start=277466 loop_end=366530 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-88-127.wav
+<group> key=89  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=507 end=547583 loop_mode=loop_sustain loop_start=138918 loop_end=376481 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-89-127.wav
+<group> key=90  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=415 end=549375 loop_mode=loop_sustain loop_start=79374 loop_end=211389 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-90-127.wav
+<group> key=91  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=427 end=547327 loop_mode=loop_sustain loop_start=273132 loop_end=385812 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-91-127.wav
+<group> key=92  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=500 end=546047 loop_mode=loop_sustain loop_start=43051 loop_end=159709 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-92-127.wav
+<group> key=93  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=678 end=546815 loop_mode=loop_sustain loop_start=39172 loop_end=206079 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-93-127.wav
+<group> key=94  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=548 end=548607 loop_mode=loop_sustain loop_start=144576 loop_end=249069 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-94-127.wav
+<group> key=95  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=552 end=547071 loop_mode=loop_sustain loop_start=279632 loop_end=378974 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-95-127.wav
+<group> key=96  pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=519 end=547071 loop_mode=loop_sustain loop_start=809 loop_end=333596 sample=../Audio/Mouth Hole 1-SAMPLES/Mouth Hole-96-127.wav
