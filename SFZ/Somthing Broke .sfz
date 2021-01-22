@@ -1,124 +1,124 @@
 // this file was generated from Somthing Broke .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
+<group> key=36  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=992216 loop_mode=loop_sustain loop_start=0 loop_end=874800 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-36-127-L8ZA 1.wav
-<group> key=37  pitch_keytrack=1
+<group> key=37  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1616160 loop_mode=loop_sustain loop_start=0 loop_end=874800 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-37-127-O4YH 1.wav
-<group> key=38  pitch_keytrack=1
+<group> key=38  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=940705 loop_mode=loop_sustain loop_start=0 loop_end=874800 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-38-127-FBDS 1.wav
-<group> key=39  pitch_keytrack=1
+<group> key=39  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=977128 loop_mode=loop_sustain loop_start=0 loop_end=874800 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-39-127-7CZ8 1.wav
-<group> key=40  pitch_keytrack=1
+<group> key=40  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=936844 loop_mode=loop_sustain loop_start=0 loop_end=874800 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-40-127-7FFL 1.wav
-<group> key=41  pitch_keytrack=1
+<group> key=41  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=52898 loop_mode=loop_sustain loop_start=0 loop_end=52488 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-41-127-ODSO 1.wav
-<group> key=42  pitch_keytrack=1
+<group> key=42  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=434 loop_mode=loop_sustain loop_start=0 loop_end=432 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-42-127-WWGX 1.wav
-<group> key=43  pitch_keytrack=1
+<group> key=43  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=450 loop_mode=loop_sustain loop_start=0 loop_end=450 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-43-127-F2RO 1.wav
-<group> key=44  pitch_keytrack=1
+<group> key=44  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=507 loop_mode=loop_sustain loop_start=0 loop_end=500 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-44-127-5NB6 1.wav
-<group> key=45  pitch_keytrack=1
+<group> key=45  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=379 loop_mode=loop_sustain loop_start=0 loop_end=360 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-45-127-BV70 1.wav
-<group> key=46  pitch_keytrack=1
+<group> key=46  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=914 loop_mode=loop_sustain loop_start=0 loop_end=900 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-46-127-UI6G 1.wav
-<group> key=47  pitch_keytrack=1
+<group> key=47  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=926 loop_mode=loop_sustain loop_start=0 loop_end=900 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-47-127-Q4SW 1.wav
-<group> key=48  pitch_keytrack=1
+<group> key=48  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=618 loop_mode=loop_sustain loop_start=0 loop_end=600 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-48-127-LUBP 1.wav
-<group> key=49  pitch_keytrack=1
+<group> key=49  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=390 loop_mode=loop_sustain loop_start=0 loop_end=384 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-49-127-ITE1 1.wav
-<group> key=50  pitch_keytrack=1
+<group> key=50  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=884 loop_mode=loop_sustain loop_start=0 loop_end=864 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-50-127-HLR9 1.wav
-<group> key=51  pitch_keytrack=1
+<group> key=51  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=871 loop_mode=loop_sustain loop_start=0 loop_end=864 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-51-127-2BGI 1.wav
-<group> key=52  pitch_keytrack=1
+<group> key=52  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=689 loop_mode=loop_sustain loop_start=0 loop_end=648 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-52-127-ZKB6 1.wav
-<group> key=53  pitch_keytrack=1
+<group> key=53  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=675 loop_mode=loop_sustain loop_start=0 loop_end=648 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-53-127-15UG 1.wav
-<group> key=54  pitch_keytrack=1
+<group> key=54  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=599 loop_mode=loop_sustain loop_start=0 loop_end=600 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-54-127-22C2 1.wav
-<group> key=55  pitch_keytrack=1
+<group> key=55  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=522 loop_mode=loop_sustain loop_start=0 loop_end=512 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-55-127-M141 1.wav
-<group> key=56  pitch_keytrack=1
+<group> key=56  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=431 loop_mode=loop_sustain loop_start=0 loop_end=432 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-56-127-569B 1.wav
-<group> key=57  pitch_keytrack=1
+<group> key=57  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=592 loop_mode=loop_sustain loop_start=0 loop_end=576 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-57-127-9CEK 1.wav
-<group> key=58  pitch_keytrack=1
+<group> key=58  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1233 loop_mode=loop_sustain loop_start=0 loop_end=1200 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-58-127-YBGV 1.wav
-<group> key=59  pitch_keytrack=1
+<group> key=59  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=418 loop_mode=loop_sustain loop_start=0 loop_end=400 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-59-127-8SBA 1.wav
-<group> key=60  pitch_keytrack=1
+<group> key=60  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=842 loop_mode=loop_sustain loop_start=0 loop_end=810 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-60-127-0GAD 1.wav
-<group> key=61  pitch_keytrack=1
+<group> key=61  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=661 loop_mode=loop_sustain loop_start=0 loop_end=648 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-61-127-BDGR 1.wav
-<group> key=62  pitch_keytrack=1
+<group> key=62  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=512 loop_mode=loop_sustain loop_start=0 loop_end=512 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-62-127-HAU4 1.wav
-<group> key=63  pitch_keytrack=1
+<group> key=63  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=619 loop_mode=loop_sustain loop_start=0 loop_end=600 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-63-127-YD5T 1.wav
-<group> key=64  pitch_keytrack=1
+<group> key=64  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=524 loop_mode=loop_sustain loop_start=0 loop_end=512 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-64-127-8SX5 1.wav
-<group> key=65  pitch_keytrack=1
+<group> key=65  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=631 loop_mode=loop_sustain loop_start=0 loop_end=600 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-65-127-MBEI 1.wav
-<group> key=66  pitch_keytrack=1
+<group> key=66  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=745 loop_mode=loop_sustain loop_start=0 loop_end=720 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-66-127-W8SZ 1.wav
-<group> key=67  pitch_keytrack=1
+<group> key=67  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=769 loop_mode=loop_sustain loop_start=0 loop_end=768 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-67-127-QOTI 1.wav
-<group> key=68  pitch_keytrack=1
+<group> key=68  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=617 loop_mode=loop_sustain loop_start=0 loop_end=600 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-68-127-Y3ZI 1.wav
-<group> key=69  pitch_keytrack=1
+<group> key=69  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=617 loop_mode=loop_sustain loop_start=0 loop_end=600 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-69-127-NG7S 1.wav
-<group> key=70  pitch_keytrack=1
+<group> key=70  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=549 loop_mode=loop_sustain loop_start=0 loop_end=540 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-70-127-SEF6 1.wav
-<group> key=71  pitch_keytrack=1
+<group> key=71  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=655 loop_mode=loop_sustain loop_start=0 loop_end=648 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-71-127-3EVL 1.wav
-<group> key=72  pitch_keytrack=1
+<group> key=72  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=780 loop_mode=loop_sustain loop_start=0 loop_end=768 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-72-127-Q9GX 1.wav
-<group> key=73  pitch_keytrack=1
+<group> key=73  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=569 loop_mode=loop_sustain loop_start=0 loop_end=540 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-73-127-UTAS 1.wav
-<group> key=74  pitch_keytrack=1
+<group> key=74  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=700 loop_mode=loop_sustain loop_start=0 loop_end=648 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-74-127-6T9E 1.wav
-<group> key=75  pitch_keytrack=1
+<group> key=75  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=707 loop_mode=loop_sustain loop_start=0 loop_end=648 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-75-127-5CEJ 1.wav
-<group> key=76  pitch_keytrack=1
+<group> key=76  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=614 loop_mode=loop_sustain loop_start=0 loop_end=600 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-76-127-SHY7 1.wav
-<group> key=77  pitch_keytrack=1
+<group> key=77  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=585 loop_mode=loop_sustain loop_start=0 loop_end=576 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-77-127-YEMP 1.wav
-<group> key=78  pitch_keytrack=1
+<group> key=78  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=578 loop_mode=loop_sustain loop_start=0 loop_end=576 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-78-127-K7U3 1.wav
-<group> key=79  pitch_keytrack=1
+<group> key=79  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=599 loop_mode=loop_sustain loop_start=0 loop_end=600 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-79-127-5X3H 1.wav
-<group> key=80  pitch_keytrack=1
+<group> key=80  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=680 loop_mode=loop_sustain loop_start=0 loop_end=648 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-80-127-58FC 1.wav
-<group> key=81  pitch_keytrack=1
+<group> key=81  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=614 loop_mode=loop_sustain loop_start=0 loop_end=600 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-81-127-MJNX 1.wav
-<group> key=82  pitch_keytrack=1
+<group> key=82  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=556 loop_mode=loop_sustain loop_start=0 loop_end=540 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-82-127-8LFB 1.wav
-<group> key=83  pitch_keytrack=1
+<group> key=83  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=889 loop_mode=loop_sustain loop_start=0 loop_end=864 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-83-127-F30L 1.wav
-<group> key=84  pitch_keytrack=1
+<group> key=84  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=963 loop_mode=loop_sustain loop_start=0 loop_end=960 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-84-127-RCD0 1.wav
-<group> key=85  pitch_keytrack=1
+<group> key=85  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=677 loop_mode=loop_sustain loop_start=0 loop_end=648 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-85-127-ID1H 1.wav
-<group> key=86  pitch_keytrack=1
+<group> key=86  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=840 loop_mode=loop_sustain loop_start=0 loop_end=810 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-86-127-V1YV 1.wav
-<group> key=87  pitch_keytrack=1
+<group> key=87  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=559 loop_mode=loop_sustain loop_start=0 loop_end=540 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-87-127-LXLO 1.wav
-<group> key=88  pitch_keytrack=1
+<group> key=88  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=750 loop_mode=loop_sustain loop_start=0 loop_end=750 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-88-127-18K6 1.wav
-<group> key=89  pitch_keytrack=1
+<group> key=89  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=684 loop_mode=loop_sustain loop_start=0 loop_end=648 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-89-127-H7AY 1.wav
-<group> key=90  pitch_keytrack=1
+<group> key=90  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=632 loop_mode=loop_sustain loop_start=0 loop_end=600 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-90-127-BLU3 1.wav
-<group> key=91  pitch_keytrack=1
+<group> key=91  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=744 loop_mode=loop_sustain loop_start=0 loop_end=720 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-91-127-87A2 1.wav
-<group> key=92  pitch_keytrack=1
+<group> key=92  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=605 loop_mode=loop_sustain loop_start=0 loop_end=600 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-92-127-0ESL 1.wav
-<group> key=93  pitch_keytrack=1
+<group> key=93  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=691 loop_mode=loop_sustain loop_start=0 loop_end=648 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-93-127-OQAT 1.wav
-<group> key=94  pitch_keytrack=1
+<group> key=94  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=560 loop_mode=loop_sustain loop_start=0 loop_end=540 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-94-127-RZ1F 1.wav
-<group> key=95  pitch_keytrack=1
+<group> key=95  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=702 loop_mode=loop_sustain loop_start=0 loop_end=648 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-95-127-1PBW 1.wav
-<group> key=96  pitch_keytrack=1
+<group> key=96  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=608 loop_mode=loop_sustain loop_start=0 loop_end=600 sample=../Audio/Somthing Broke 1-SAMPLES/ESQ1 SEQ1-96-127-T25K 1.wav

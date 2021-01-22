@@ -1,124 +1,124 @@
 // this file was generated from Sweeping Piano .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
+<group> key=36  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=381 end=1153343 loop_mode=loop_sustain loop_start=532513 loop_end=888078 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-36-127_0001.wav
-<group> key=37  pitch_keytrack=1
+<group> key=37  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=387 end=1149567 loop_mode=loop_sustain loop_start=533574 loop_end=889978 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-37-127_0001.wav
-<group> key=38  pitch_keytrack=1
+<group> key=38  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=402 end=1145727 loop_mode=loop_sustain loop_start=539780 loop_end=893052 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-38-127_0001.wav
-<group> key=39  pitch_keytrack=1
+<group> key=39  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=421 end=1150719 loop_mode=loop_sustain loop_start=519709 loop_end=867790 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-39-127_0001.wav
-<group> key=40  pitch_keytrack=1
+<group> key=40  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=454 end=1150015 loop_mode=loop_sustain loop_start=537251 loop_end=892181 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-40-127.wav
-<group> key=41  pitch_keytrack=1
+<group> key=41  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=408 end=1147199 loop_mode=loop_sustain loop_start=530668 loop_end=877197 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-41-127.wav
-<group> key=42  pitch_keytrack=1
+<group> key=42  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=426 end=1147711 loop_mode=loop_sustain loop_start=528931 loop_end=877980 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-42-127.wav
-<group> key=43  pitch_keytrack=1
+<group> key=43  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=386 end=1149951 loop_mode=loop_sustain loop_start=537476 loop_end=892759 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-43-127.wav
-<group> key=44  pitch_keytrack=1
+<group> key=44  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=474 end=1148223 loop_mode=loop_sustain loop_start=529667 loop_end=875208 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-44-127.wav
-<group> key=45  pitch_keytrack=1
+<group> key=45  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=406 end=1151103 loop_mode=loop_sustain loop_start=530777 loop_end=876199 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-45-127.wav
-<group> key=46  pitch_keytrack=1
+<group> key=46  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=407 end=1147135 loop_mode=loop_sustain loop_start=530223 loop_end=885131 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-46-127.wav
-<group> key=47  pitch_keytrack=1
+<group> key=47  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=422 end=1153087 loop_mode=loop_sustain loop_start=519597 loop_end=866447 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-47-127.wav
-<group> key=48  pitch_keytrack=1
+<group> key=48  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=376 end=1148863 loop_mode=loop_sustain loop_start=530580 loop_end=884896 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-48-127.wav
-<group> key=49  pitch_keytrack=1
+<group> key=49  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=411 end=1152831 loop_mode=loop_sustain loop_start=529538 loop_end=876700 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-49-127.wav
-<group> key=50  pitch_keytrack=1
+<group> key=50  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=354 end=1150975 loop_mode=loop_sustain loop_start=516883 loop_end=862069 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-50-127.wav
-<group> key=51  pitch_keytrack=1
+<group> key=51  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=360 end=1149055 loop_mode=loop_sustain loop_start=528198 loop_end=881914 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-51-127.wav
-<group> key=52  pitch_keytrack=1
+<group> key=52  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=387 end=1150335 loop_mode=loop_sustain loop_start=681927 loop_end=905599 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-52-127.wav
-<group> key=53  pitch_keytrack=1
+<group> key=53  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=398 end=1151935 loop_mode=loop_sustain loop_start=302859 loop_end=535651 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-53-127.wav
-<group> key=54  pitch_keytrack=1
+<group> key=54  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=417 end=1150911 loop_mode=loop_sustain loop_start=309543 loop_end=544000 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-54-127.wav
-<group> key=55  pitch_keytrack=1
+<group> key=55  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=392 end=1149887 loop_mode=loop_sustain loop_start=682125 loop_end=903423 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-55-127.wav
-<group> key=56  pitch_keytrack=1
+<group> key=56  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=352 end=1148671 loop_mode=loop_sustain loop_start=680976 loop_end=905630 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-56-127.wav
-<group> key=57  pitch_keytrack=1
+<group> key=57  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=439 end=1148543 loop_mode=loop_sustain loop_start=300814 loop_end=543690 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-57-127.wav
-<group> key=58  pitch_keytrack=1
+<group> key=58  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=477 end=1148415 loop_mode=loop_sustain loop_start=680999 loop_end=905634 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-58-127.wav
-<group> key=59  pitch_keytrack=1
+<group> key=59  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=392 end=1151295 loop_mode=loop_sustain loop_start=300003 loop_end=535657 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-59-127.wav
-<group> key=60  pitch_keytrack=1
+<group> key=60  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=402 end=1150079 loop_mode=loop_sustain loop_start=550935 loop_end=767328 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-60-127.wav
-<group> key=61  pitch_keytrack=1
+<group> key=61  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=400 end=1150847 loop_mode=loop_sustain loop_start=559205 loop_end=783498 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-61-127.wav
-<group> key=62  pitch_keytrack=1
+<group> key=62  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=409 end=1149183 loop_mode=loop_sustain loop_start=483483 loop_end=716725 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-62-127.wav
-<group> key=63  pitch_keytrack=1
+<group> key=63  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=420 end=1148543 loop_mode=loop_sustain loop_start=483553 loop_end=718158 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-63-127.wav
-<group> key=64  pitch_keytrack=1
+<group> key=64  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=423 end=1152383 loop_mode=loop_sustain loop_start=451237 loop_end=792958 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-64-127.wav
-<group> key=65  pitch_keytrack=1
+<group> key=65  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=333 end=1151359 loop_mode=loop_sustain loop_start=483624 loop_end=716937 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-65-127.wav
-<group> key=66  pitch_keytrack=1
+<group> key=66  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=384 end=1152511 loop_mode=loop_sustain loop_start=482571 loop_end=716090 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-66-127.wav
-<group> key=67  pitch_keytrack=1
+<group> key=67  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=375 end=1148863 loop_mode=loop_sustain loop_start=474296 loop_end=717645 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-67-127.wav
-<group> key=68  pitch_keytrack=1
+<group> key=68  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=432 end=1149119 loop_mode=loop_sustain loop_start=66962 loop_end=388741 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-68-127.wav
-<group> key=69  pitch_keytrack=1
+<group> key=69  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=386 end=1150015 loop_mode=loop_sustain loop_start=300474 loop_end=518480 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-69-127.wav
-<group> key=70  pitch_keytrack=1
+<group> key=70  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=392 end=1150015 loop_mode=loop_sustain loop_start=299563 loop_end=509292 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-70-127.wav
-<group> key=71  pitch_keytrack=1
+<group> key=71  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=369 end=1150527 loop_mode=loop_sustain loop_start=299692 loop_end=509249 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-71-127.wav
-<group> key=72  pitch_keytrack=1
+<group> key=72  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=346 end=1148543 loop_mode=loop_sustain loop_start=293857 loop_end=509018 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-72-127.wav
-<group> key=73  pitch_keytrack=1
+<group> key=73  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=444 end=1153471 loop_mode=loop_sustain loop_start=294205 loop_end=526428 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-73-127.wav
-<group> key=74  pitch_keytrack=1
+<group> key=74  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=406 end=1149311 loop_mode=loop_sustain loop_start=292973 loop_end=526705 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-74-127.wav
-<group> key=75  pitch_keytrack=1
+<group> key=75  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=398 end=1152831 loop_mode=loop_sustain loop_start=284879 loop_end=526717 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-75-127.wav
-<group> key=76  pitch_keytrack=1
+<group> key=76  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=325 end=1151359 loop_mode=loop_sustain loop_start=171410 loop_end=491753 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-76-127.wav
-<group> key=77  pitch_keytrack=1
+<group> key=77  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=412 end=1146943 loop_mode=loop_sustain loop_start=171671 loop_end=491147 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-77-127.wav
-<group> key=78  pitch_keytrack=1
+<group> key=78  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=314 end=1152127 loop_mode=loop_sustain loop_start=171377 loop_end=491752 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-78-127.wav
-<group> key=79  pitch_keytrack=1
+<group> key=79  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=420 end=1149695 loop_mode=loop_sustain loop_start=172485 loop_end=491689 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-79-127.wav
-<group> key=80  pitch_keytrack=1
+<group> key=80  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=399 end=1149503 loop_mode=loop_sustain loop_start=170587 loop_end=489163 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-80-127.wav
-<group> key=81  pitch_keytrack=1
+<group> key=81  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=343 end=1150719 loop_mode=loop_sustain loop_start=171305 loop_end=490015 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-81-127.wav
-<group> key=82  pitch_keytrack=1
+<group> key=82  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=368 end=1150207 loop_mode=loop_sustain loop_start=171540 loop_end=490974 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-82-127.wav
-<group> key=83  pitch_keytrack=1
+<group> key=83  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=397 end=1150463 loop_mode=loop_sustain loop_start=171195 loop_end=491754 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-83-127.wav
-<group> key=84  pitch_keytrack=1
+<group> key=84  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=362 end=1152383 loop_mode=loop_sustain loop_start=312018 loop_end=501048 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-84-127.wav
-<group> key=85  pitch_keytrack=1
+<group> key=85  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=373 end=1151487 loop_mode=loop_sustain loop_start=303852 loop_end=492852 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-85-127.wav
-<group> key=86  pitch_keytrack=1
+<group> key=86  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=416 end=1165183 loop_mode=loop_sustain loop_start=305720 loop_end=491026 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-86-127.wav
-<group> key=87  pitch_keytrack=1
+<group> key=87  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=373 end=1149311 loop_mode=loop_sustain loop_start=311433 loop_end=493991 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-87-127.wav
-<group> key=88  pitch_keytrack=1
+<group> key=88  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=424 end=1149503 loop_mode=loop_sustain loop_start=302495 loop_end=487633 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-88-127.wav
-<group> key=89  pitch_keytrack=1
+<group> key=89  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=374 end=1153343 loop_mode=loop_sustain loop_start=297477 loop_end=482519 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-89-127.wav
-<group> key=90  pitch_keytrack=1
+<group> key=90  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=430 end=1153727 loop_mode=loop_sustain loop_start=491898 loop_end=914750 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-90-127.wav
-<group> key=91  pitch_keytrack=1
+<group> key=91  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=402 end=1149311 loop_mode=loop_sustain loop_start=485932 loop_end=908941 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-91-127.wav
-<group> key=92  pitch_keytrack=1
+<group> key=92  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=361 end=1149311 loop_mode=loop_sustain loop_start=446833 loop_end=870373 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-92-127.wav
-<group> key=93  pitch_keytrack=1
+<group> key=93  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=437 end=1148287 loop_mode=loop_sustain loop_start=438777 loop_end=861763 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-93-127.wav
-<group> key=94  pitch_keytrack=1
+<group> key=94  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=502 end=1152319 loop_mode=loop_sustain loop_start=355149 loop_end=776675 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-94-127.wav
-<group> key=95  pitch_keytrack=1
+<group> key=95  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=412 end=1148351 loop_mode=loop_sustain loop_start=361520 loop_end=782943 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-95-127.wav
-<group> key=96  pitch_keytrack=1
+<group> key=96  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=426 end=1151871 loop_mode=loop_sustain loop_start=344190 loop_end=765190 sample=../Audio/Sweeping Piano 1-SAMPLES/Sweeping Piano-96-127.wav

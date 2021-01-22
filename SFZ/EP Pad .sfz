@@ -1,126 +1,126 @@
 // this file was generated from EP Pad .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=36 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-36-127-1BUE.wav
-<group> key=37 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=37 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285229 loop_end=382621 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-37-127-2B3P.wav
-<group> key=38 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=38 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-38-127-7IPC.wav
-<group> key=39 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=39 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-39-127-BMDO.wav
-<group> key=40 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=40 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-40-127-AT3S.wav
-<group> key=41 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=41 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324907 loop_end=422869 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-41-127-ZBRJ.wav
-<group> key=42 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=42 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-42-127-GI31.wav
-<group> key=43 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=43 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-43-127-LZ3U.wav
-<group> key=44 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=44 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315359 loop_end=412539 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-44-127-TCFJ.wav
-<group> key=45 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=45 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324540 loop_end=421486 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-45-127-GC32.wav
-<group> key=46 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=46 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-46-127-BRZS.wav
-<group> key=47 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=47 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314739 loop_end=422859 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-47-127-2ZY3.wav
-<group> key=48 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=48 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-48-127-X5HG.wav
-<group> key=49 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=49 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=304953 loop_end=412416 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-49-127-EJJC.wav
-<group> key=50 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=50 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-50-127-WHMA.wav
-<group> key=51 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=51 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-51-127-M6KS.wav
-<group> key=52 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=52 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=285490 loop_end=382876 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-52-127-LWEM.wav
-<group> key=53 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=53 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-53-127-LGO9.wav
-<group> key=54 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=54 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-54-127-D5IT.wav
-<group> key=55 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=55 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315340 loop_end=412492 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-55-127-OE6B.wav
-<group> key=56 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=56 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-56-127-AV4L.wav
-<group> key=57 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=57 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314766 loop_end=412578 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-57-127-GOMI.wav
-<group> key=58 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=58 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-58-127-TXFN.wav
-<group> key=59 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=59 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-59-127-EFBP.wav
-<group> key=60 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=60 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-60-127-9NTU.wav
-<group> key=61 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=61 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=275503 loop_end=373639 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-61-127-VNAY.wav
-<group> key=62 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=62 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-62-127-NG0X.wav
-<group> key=63 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=63 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314648 loop_end=412532 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-63-127-HWCJ.wav
-<group> key=64 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=64 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-64-127-SXYZ.wav
-<group> key=65 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=65 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=325327 loop_end=422027 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-65-127-PM8B.wav
-<group> key=66 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=66 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324529 loop_end=421741 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-66-127-6OAY.wav
-<group> key=67 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=67 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=325762 loop_end=423139 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-67-127-BM5W.wav
-<group> key=68 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=68 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295692 loop_end=392588 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-68-127-7JN4.wav
-<group> key=69 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=69 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=296157 loop_end=393135 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-69-127-I5MX.wav
-<group> key=70 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=70 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-70-127-JHUO.wav
-<group> key=71 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=71 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=324577 loop_end=421782 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-71-127-RQAE.wav
-<group> key=72 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=72 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333661 loop_end=430975 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-72-127-4Q13.wav
-<group> key=73 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=73 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-73-77-1279.wav
-<group> key=74 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=74 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-73-127-PUSU.wav
-<group> key=75 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=75 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333810 loop_end=431008 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-74-127-PVDD.wav
-<group> key=76 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=76 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333481 loop_end=431034 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-75-127-KCHY.wav
-<group> key=77 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=77 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333759 loop_end=430789 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-76-127-91RB.wav
-<group> key=78 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=78 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-77-127-O6P5.wav
-<group> key=79 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=79 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-78-127-5IAL.wav
-<group> key=80 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=80 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-79-127-ZMO4.wav
-<group> key=81 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=81 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-80-127-BGWD.wav
-<group> key=82 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=82 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-81-127-LLIK.wav
-<group> key=83 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=83 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-82-127-O2L5.wav
-<group> key=84 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=84 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313318 loop_end=410523 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-83-127-XSK8.wav
-<group> key=85 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=85 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=332774 loop_end=429990 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-84-127-2ADU.wav
-<group> key=86 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=86 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333740 loop_end=431028 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-85-127-4JUM.wav
-<group> key=87 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=87 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323531 loop_end=420767 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-86-127-K0EQ.wav
-<group> key=88 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=88 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323491 loop_end=420796 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-87-127-LOIL.wav
-<group> key=89 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=89 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=332793 loop_end=430046 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-88-127-GARD.wav
-<group> key=90 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=90 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-89-127-I6B4.wav
-<group> key=91 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=91 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323492 loop_end=420803 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-90-127-EO48.wav
-<group> key=92 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=92 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-91-127-TP1M.wav
-<group> key=93 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=93 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-92-127-IC9J.wav
-<group> key=94 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=94 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-93-127-NNQX.wav
-<group> key=95 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=95 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-94-127-RPVU.wav
-<group> key=96 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=96 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274425 loop_end=371712 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-95-127-BJ8X.wav
-<group> key=97 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=97 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274409 loop_end=371653 sample=../Audio/Electric Piano 1-SAMPLES/Electric Piano-96-127-N75X.wav

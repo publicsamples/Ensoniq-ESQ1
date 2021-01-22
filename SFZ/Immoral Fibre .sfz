@@ -1,124 +1,124 @@
 // this file was generated from Immoral Fibre .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
+<group> key=36  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=403 end=469759 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-36-127 1.wav
-<group> key=37  pitch_keytrack=1
+<group> key=37  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=446 end=477183 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-37-127 1.wav
-<group> key=38  pitch_keytrack=1
+<group> key=38  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=544 end=469759 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-38-127 1.wav
-<group> key=39  pitch_keytrack=1
+<group> key=39  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=482 end=469503 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-39-127 1.wav
-<group> key=40  pitch_keytrack=1
+<group> key=40  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=467 end=477951 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-40-127 1.wav
-<group> key=41  pitch_keytrack=1
+<group> key=41  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=367 end=467711 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-41-127 1.wav
-<group> key=42  pitch_keytrack=1
+<group> key=42  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=515 end=466687 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-42-127 1.wav
-<group> key=43  pitch_keytrack=1
+<group> key=43  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=381 end=468735 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-43-127 1.wav
-<group> key=44  pitch_keytrack=1
+<group> key=44  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=670 end=476415 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-44-127 1.wav
-<group> key=45  pitch_keytrack=1
+<group> key=45  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=384 end=469503 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-45-127 1.wav
-<group> key=46  pitch_keytrack=1
+<group> key=46  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=490 end=468991 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-46-127 1.wav
-<group> key=47  pitch_keytrack=1
+<group> key=47  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=471 end=476159 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-47-127 1.wav
-<group> key=48  pitch_keytrack=1
+<group> key=48  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=401 end=478207 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-48-127 1.wav
-<group> key=49  pitch_keytrack=1
+<group> key=49  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=416 end=469247 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-49-127 1.wav
-<group> key=50  pitch_keytrack=1
+<group> key=50  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=491 end=465407 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-50-127 1.wav
-<group> key=51  pitch_keytrack=1
+<group> key=51  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=579 end=478207 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-51-127 1.wav
-<group> key=52  pitch_keytrack=1
+<group> key=52  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=535 end=476927 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-52-127 1.wav
-<group> key=53  pitch_keytrack=1
+<group> key=53  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=502 end=474879 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-53-127 1.wav
-<group> key=54  pitch_keytrack=1
+<group> key=54  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=370 end=476927 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-54-127 1.wav
-<group> key=55  pitch_keytrack=1
+<group> key=55  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=340 end=477951 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-55-127 1.wav
-<group> key=56  pitch_keytrack=1
+<group> key=56  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=238 end=478207 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-56-127 1.wav
-<group> key=57  pitch_keytrack=1
+<group> key=57  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=567 end=468479 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-57-127 1.wav
-<group> key=58  pitch_keytrack=1
+<group> key=58  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=473 end=467967 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-58-127 1.wav
-<group> key=59  pitch_keytrack=1
+<group> key=59  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=416 end=474111 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-59-127 1.wav
-<group> key=60  pitch_keytrack=1
+<group> key=60  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=495 end=478719 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-60-127 1.wav
-<group> key=61  pitch_keytrack=1
+<group> key=61  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=561 end=475903 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-61-127 1.wav
-<group> key=62  pitch_keytrack=1
+<group> key=62  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=639 end=478463 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-62-127 1.wav
-<group> key=63  pitch_keytrack=1
+<group> key=63  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=611 end=476159 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-63-127 1.wav
-<group> key=64  pitch_keytrack=1
+<group> key=64  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=411 end=476927 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-64-127 1.wav
-<group> key=65  pitch_keytrack=1
+<group> key=65  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=571 end=470271 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-65-127 1.wav
-<group> key=66  pitch_keytrack=1
+<group> key=66  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=473 end=467199 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-66-127 1.wav
-<group> key=67  pitch_keytrack=1
+<group> key=67  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=446 end=472575 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-67-127 1.wav
-<group> key=68  pitch_keytrack=1
+<group> key=68  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=447 end=476927 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-68-127 1.wav
-<group> key=69  pitch_keytrack=1
+<group> key=69  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=571 end=479487 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-69-127 1.wav
-<group> key=70  pitch_keytrack=1
+<group> key=70  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=562 end=478207 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-70-127 1.wav
-<group> key=71  pitch_keytrack=1
+<group> key=71  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=550 end=478207 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-71-127 1.wav
-<group> key=72  pitch_keytrack=1
+<group> key=72  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=273 end=477183 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-72-127 1.wav
-<group> key=73  pitch_keytrack=1
+<group> key=73  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=387 end=468991 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-73-127 1.wav
-<group> key=74  pitch_keytrack=1
+<group> key=74  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=438 end=468735 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-74-127 1.wav
-<group> key=75  pitch_keytrack=1
+<group> key=75  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=544 end=475135 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-75-127 1.wav
-<group> key=76  pitch_keytrack=1
+<group> key=76  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=529 end=476927 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-76-127 1.wav
-<group> key=77  pitch_keytrack=1
+<group> key=77  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=563 end=475135 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-77-127 1.wav
-<group> key=78  pitch_keytrack=1
+<group> key=78  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=601 end=470271 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-78-127 1.wav
-<group> key=79  pitch_keytrack=1
+<group> key=79  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=774 end=479487 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-79-127 1.wav
-<group> key=80  pitch_keytrack=1
+<group> key=80  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=341 end=476415 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-80-127 1.wav
-<group> key=81  pitch_keytrack=1
+<group> key=81  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=396 end=476671 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-81-127 1.wav
-<group> key=82  pitch_keytrack=1
+<group> key=82  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=468 end=464383 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-82-127 1.wav
-<group> key=83  pitch_keytrack=1
+<group> key=83  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=289 end=470527 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-83-127 1.wav
-<group> key=84  pitch_keytrack=1
+<group> key=84  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=451 end=477951 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-84-127 1.wav
-<group> key=85  pitch_keytrack=1
+<group> key=85  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=523 end=478719 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-85-127 1.wav
-<group> key=86  pitch_keytrack=1
+<group> key=86  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=420 end=468223 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-86-127 1.wav
-<group> key=87  pitch_keytrack=1
+<group> key=87  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=569 end=479231 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-87-127 1.wav
-<group> key=88  pitch_keytrack=1
+<group> key=88  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=426 end=477951 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-88-127 1.wav
-<group> key=89  pitch_keytrack=1
+<group> key=89  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=489 end=468479 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-89-127 1.wav
-<group> key=90  pitch_keytrack=1
+<group> key=90  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=389 end=467967 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-90-127 1.wav
-<group> key=91  pitch_keytrack=1
+<group> key=91  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=497 end=468991 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-91-127 1.wav
-<group> key=92  pitch_keytrack=1
+<group> key=92  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=609 end=470271 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-92-127 1.wav
-<group> key=93  pitch_keytrack=1
+<group> key=93  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=560 end=470271 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-93-127 1.wav
-<group> key=94  pitch_keytrack=1
+<group> key=94  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=524 end=468223 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-94-127 1.wav
-<group> key=95  pitch_keytrack=1
+<group> key=95  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=638 end=468735 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-95-127 1.wav
-<group> key=96  pitch_keytrack=1
+<group> key=96  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=452 end=477951 sample=../Audio/Immoral Fibre 1-SAMPLES/Immoral Fibre-96-127 1.wav

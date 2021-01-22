@@ -1,92 +1,92 @@
 // this file was generated from gate 155 .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
+<group> key=36  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=353 end=873215 loop_mode=loop_sustain loop_start=339266 loop_end=478508 sample=../Audio/gate 155 1-SAMPLES/gate 155-36-127.wav
-<group> key=37  pitch_keytrack=1
+<group> key=37  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=360 end=869951 loop_mode=loop_sustain loop_start=208030 loop_end=584812 sample=../Audio/gate 155 1-SAMPLES/gate 155-37-127.wav
-<group> key=38  pitch_keytrack=1
+<group> key=38  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=346 end=876351 loop_mode=loop_sustain loop_start=129272 loop_end=497892 sample=../Audio/gate 155 1-SAMPLES/gate 155-38-127.wav
-<group> key=39  pitch_keytrack=1
+<group> key=39  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=359 end=885119 loop_mode=loop_sustain loop_start=188089 loop_end=504502 sample=../Audio/gate 155 1-SAMPLES/gate 155-39-127.wav
-<group> key=40  pitch_keytrack=1
+<group> key=40  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=372 end=872319 loop_mode=loop_sustain loop_start=153706 loop_end=523467 sample=../Audio/gate 155 1-SAMPLES/gate 155-40-127.wav
-<group> key=41  pitch_keytrack=1
+<group> key=41  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=375 end=870591 loop_mode=loop_sustain loop_start=166346 loop_end=563620 sample=../Audio/gate 155 1-SAMPLES/gate 155-41-127.wav
-<group> key=42  pitch_keytrack=1
+<group> key=42  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=353 end=872127 loop_mode=loop_sustain loop_start=225448 loop_end=363737 sample=../Audio/gate 155 1-SAMPLES/gate 155-42-127.wav
-<group> key=43  pitch_keytrack=1
+<group> key=43  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=440 end=869823 loop_mode=loop_sustain loop_start=289953 loop_end=473189 sample=../Audio/gate 155 1-SAMPLES/gate 155-43-127.wav
-<group> key=44  pitch_keytrack=1
+<group> key=44  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=387 end=878335 loop_mode=loop_sustain loop_start=191524 loop_end=416811 sample=../Audio/gate 155 1-SAMPLES/gate 155-44-127.wav
-<group> key=45  pitch_keytrack=1
+<group> key=45  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=411 end=873087 loop_mode=loop_sustain loop_start=217128 loop_end=396372 sample=../Audio/gate 155 1-SAMPLES/gate 155-45-127.wav
-<group> key=46  pitch_keytrack=1
+<group> key=46  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=282 end=872831 loop_mode=loop_sustain loop_start=246396 loop_end=582473 sample=../Audio/gate 155 1-SAMPLES/gate 155-46-127.wav
-<group> key=47  pitch_keytrack=1
+<group> key=47  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=327 end=890303 loop_mode=loop_sustain loop_start=24798 loop_end=473116 sample=../Audio/gate 155 1-SAMPLES/gate 155-47-127.wav
-<group> key=48  pitch_keytrack=1
+<group> key=48  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=481 end=874943 loop_mode=loop_sustain loop_start=45263 loop_end=382073 sample=../Audio/gate 155 1-SAMPLES/gate 155-48-127.wav
-<group> key=49  pitch_keytrack=1
+<group> key=49  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=341 end=864767 loop_mode=loop_sustain loop_start=181057 loop_end=516676 sample=../Audio/gate 155 1-SAMPLES/gate 155-49-127.wav
-<group> key=50  pitch_keytrack=1
+<group> key=50  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=427 end=870335 loop_mode=loop_sustain loop_start=269260 loop_end=579548 sample=../Audio/gate 155 1-SAMPLES/gate 155-50-127.wav
-<group> key=51  pitch_keytrack=1
+<group> key=51  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=423 end=864639 loop_mode=loop_sustain loop_start=27367 loop_end=474964 sample=../Audio/gate 155 1-SAMPLES/gate 155-51-127.wav
-<group> key=52  pitch_keytrack=1
+<group> key=52  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=370 end=868799 loop_mode=loop_sustain loop_start=319297 loop_end=498347 sample=../Audio/gate 155 1-SAMPLES/gate 155-52-127.wav
-<group> key=53  pitch_keytrack=1
+<group> key=53  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=378 end=869823 loop_mode=loop_sustain loop_start=214408 loop_end=551551 sample=../Audio/gate 155 1-SAMPLES/gate 155-53-127.wav
-<group> key=54  pitch_keytrack=1
+<group> key=54  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=341 end=868607 loop_mode=loop_sustain loop_start=112365 loop_end=490201 sample=../Audio/gate 155 1-SAMPLES/gate 155-54-127.wav
-<group> key=55  pitch_keytrack=1
+<group> key=55  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=340 end=893503 loop_mode=loop_sustain loop_start=20058 loop_end=192124 sample=../Audio/gate 155 1-SAMPLES/gate 155-55-127.wav
-<group> key=56  pitch_keytrack=1
+<group> key=56  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=365 end=867391 loop_mode=loop_sustain loop_start=350799 loop_end=576094 sample=../Audio/gate 155 1-SAMPLES/gate 155-56-127.wav
-<group> key=57  pitch_keytrack=1
+<group> key=57  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=327 end=872639 loop_mode=loop_sustain loop_start=176946 loop_end=513826 sample=../Audio/gate 155 1-SAMPLES/gate 155-57-127.wav
-<group> key=58  pitch_keytrack=1
+<group> key=58  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=413 end=876031 loop_mode=loop_sustain loop_start=46334 loop_end=381253 sample=../Audio/gate 155 1-SAMPLES/gate 155-58-127.wav
-<group> key=59  pitch_keytrack=1
+<group> key=59  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=360 end=866943 loop_mode=loop_sustain loop_start=385620 loop_end=576139 sample=../Audio/gate 155 1-SAMPLES/gate 155-59-127.wav
-<group> key=60  pitch_keytrack=1
+<group> key=60  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=348 end=867327 loop_mode=loop_sustain loop_start=223827 loop_end=559573 sample=../Audio/gate 155 1-SAMPLES/gate 155-60-127.wav
-<group> key=61  pitch_keytrack=1
+<group> key=61  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=397 end=862207 loop_mode=loop_sustain loop_start=158702 loop_end=360333 sample=../Audio/gate 155 1-SAMPLES/gate 155-61-127.wav
-<group> key=62  pitch_keytrack=1
+<group> key=62  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=401 end=877119 loop_mode=loop_sustain loop_start=248550 loop_end=473141 sample=../Audio/gate 155 1-SAMPLES/gate 155-62-127.wav
-<group> key=63  pitch_keytrack=1
+<group> key=63  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=430 end=892095 loop_mode=loop_sustain loop_start=346750 loop_end=571398 sample=../Audio/gate 155 1-SAMPLES/gate 155-63-127.wav
-<group> key=64  pitch_keytrack=1
+<group> key=64  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=347 end=871679 loop_mode=loop_sustain loop_start=169128 loop_end=393144 sample=../Audio/gate 155 1-SAMPLES/gate 155-64-127.wav
-<group> key=65  pitch_keytrack=1
+<group> key=65  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=247 end=874047 loop_mode=loop_sustain loop_start=245857 loop_end=469359 sample=../Audio/gate 155 1-SAMPLES/gate 155-65-127.wav
-<group> key=66  pitch_keytrack=1
+<group> key=66  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=375 end=873087 loop_mode=loop_sustain loop_start=19070 loop_end=244427 sample=../Audio/gate 155 1-SAMPLES/gate 155-66-127.wav
-<group> key=67  pitch_keytrack=1
+<group> key=67  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=424 end=864447 loop_mode=loop_sustain loop_start=169184 loop_end=393989 sample=../Audio/gate 155 1-SAMPLES/gate 155-67-127.wav
-<group> key=68  pitch_keytrack=1
+<group> key=68  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=308 end=868671 loop_mode=loop_sustain loop_start=92097 loop_end=224988 sample=../Audio/gate 155 1-SAMPLES/gate 155-68-127.wav
-<group> key=69  pitch_keytrack=1
+<group> key=69  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=283 end=871807 loop_mode=loop_sustain loop_start=95942 loop_end=319022 sample=../Audio/gate 155 1-SAMPLES/gate 155-69-127.wav
-<group> key=70  pitch_keytrack=1
+<group> key=70  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=287 end=867583 loop_mode=loop_sustain loop_start=222463 loop_end=447360 sample=../Audio/gate 155 1-SAMPLES/gate 155-70-127.wav
-<group> key=71  pitch_keytrack=1
+<group> key=71  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=424 end=878847 loop_mode=loop_sustain loop_start=318928 loop_end=542526 sample=../Audio/gate 155 1-SAMPLES/gate 155-71-127.wav
-<group> key=72  pitch_keytrack=1
+<group> key=72  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=375 end=867711 loop_mode=loop_sustain loop_start=349554 loop_end=530699 sample=../Audio/gate 155 1-SAMPLES/gate 155-72-127.wav
-<group> key=73  pitch_keytrack=1
+<group> key=73  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2987 end=868927 loop_mode=loop_sustain loop_start=14997 loop_end=575015 sample=../Audio/gate 155 1-SAMPLES/gate 155-73-127.wav
-<group> key=74  pitch_keytrack=1
+<group> key=74  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=358 end=874367 loop_mode=loop_sustain loop_start=246400 loop_end=581642 sample=../Audio/gate 155 1-SAMPLES/gate 155-74-127.wav
-<group> key=75  pitch_keytrack=1
+<group> key=75  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=679 end=867711 loop_mode=loop_sustain loop_start=110004 loop_end=234948 sample=../Audio/gate 155 1-SAMPLES/gate 155-75-127.wav
-<group> key=76  pitch_keytrack=1
+<group> key=76  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=270 end=874815 loop_mode=loop_sustain loop_start=113154 loop_end=472902 sample=../Audio/gate 155 1-SAMPLES/gate 155-76-127.wav
-<group> key=77  pitch_keytrack=1
+<group> key=77  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=360 end=872063 loop_mode=loop_sustain loop_start=289166 loop_end=513263 sample=../Audio/gate 155 1-SAMPLES/gate 155-77-127.wav
-<group> key=78  pitch_keytrack=1
+<group> key=78  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=413 end=866943 loop_mode=loop_sustain loop_start=192705 loop_end=416881 sample=../Audio/gate 155 1-SAMPLES/gate 155-78-127.wav
-<group> key=79  pitch_keytrack=1
+<group> key=79  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=398 end=900799 loop_mode=loop_sustain loop_start=247474 loop_end=381895 sample=../Audio/gate 155 1-SAMPLES/gate 155-79-127.wav
-<group> key=80  pitch_keytrack=1
+<group> key=80  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=403 end=526015 loop_mode=loop_sustain loop_start=287737 loop_end=400056 sample=../Audio/gate 155 1-SAMPLES/gate 155-80-127.wav

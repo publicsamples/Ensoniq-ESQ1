@@ -1,124 +1,124 @@
 // this file was generated from Warming up .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
+<group> key=36  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=511 end=326143 sample=../Audio/Warming up 1-SAMPLES/Warming up-36-127 1.wav
-<group> key=37  pitch_keytrack=1
+<group> key=37  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=499 end=328639 sample=../Audio/Warming up 1-SAMPLES/Warming up-37-127 1.wav
-<group> key=38  pitch_keytrack=1
+<group> key=38  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=408 end=324671 sample=../Audio/Warming up 1-SAMPLES/Warming up-38-127 1.wav
-<group> key=39  pitch_keytrack=1
+<group> key=39  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=380 end=325183 sample=../Audio/Warming up 1-SAMPLES/Warming up-39-127 1.wav
-<group> key=40  pitch_keytrack=1
+<group> key=40  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=505 end=325823 sample=../Audio/Warming up 1-SAMPLES/Warming up-40-127 1.wav
-<group> key=41  pitch_keytrack=1
+<group> key=41  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=438 end=323583 sample=../Audio/Warming up 1-SAMPLES/Warming up-41-127 1.wav
-<group> key=42  pitch_keytrack=1
+<group> key=42  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=421 end=324351 sample=../Audio/Warming up 1-SAMPLES/Warming up-42-127 1.wav
-<group> key=43  pitch_keytrack=1
+<group> key=43  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=351 end=326783 sample=../Audio/Warming up 1-SAMPLES/Warming up-43-127 1.wav
-<group> key=44  pitch_keytrack=1
+<group> key=44  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=496 end=329855 sample=../Audio/Warming up 1-SAMPLES/Warming up-44-127 1.wav
-<group> key=45  pitch_keytrack=1
+<group> key=45  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=410 end=325951 sample=../Audio/Warming up 1-SAMPLES/Warming up-45-127 1.wav
-<group> key=46  pitch_keytrack=1
+<group> key=46  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=511 end=326271 sample=../Audio/Warming up 1-SAMPLES/Warming up-46-127 1.wav
-<group> key=47  pitch_keytrack=1
+<group> key=47  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=383 end=326207 sample=../Audio/Warming up 1-SAMPLES/Warming up-47-127 1.wav
-<group> key=48  pitch_keytrack=1
+<group> key=48  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=335 end=324415 sample=../Audio/Warming up 1-SAMPLES/Warming up-48-127 1.wav
-<group> key=49  pitch_keytrack=1
+<group> key=49  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=365 end=327231 sample=../Audio/Warming up 1-SAMPLES/Warming up-49-127 1.wav
-<group> key=50  pitch_keytrack=1
+<group> key=50  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=502 end=326079 sample=../Audio/Warming up 1-SAMPLES/Warming up-50-127 1.wav
-<group> key=51  pitch_keytrack=1
+<group> key=51  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=466 end=327679 sample=../Audio/Warming up 1-SAMPLES/Warming up-51-127 1.wav
-<group> key=52  pitch_keytrack=1
+<group> key=52  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=491 end=327679 sample=../Audio/Warming up 1-SAMPLES/Warming up-52-127 1.wav
-<group> key=53  pitch_keytrack=1
+<group> key=53  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=453 end=330879 sample=../Audio/Warming up 1-SAMPLES/Warming up-53-127 1.wav
-<group> key=54  pitch_keytrack=1
+<group> key=54  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=409 end=328063 sample=../Audio/Warming up 1-SAMPLES/Warming up-54-127 1.wav
-<group> key=55  pitch_keytrack=1
+<group> key=55  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=448 end=327295 sample=../Audio/Warming up 1-SAMPLES/Warming up-55-127 1.wav
-<group> key=56  pitch_keytrack=1
+<group> key=56  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=425 end=326463 sample=../Audio/Warming up 1-SAMPLES/Warming up-56-127 1.wav
-<group> key=57  pitch_keytrack=1
+<group> key=57  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=429 end=328383 sample=../Audio/Warming up 1-SAMPLES/Warming up-57-127 1.wav
-<group> key=58  pitch_keytrack=1
+<group> key=58  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=473 end=328447 sample=../Audio/Warming up 1-SAMPLES/Warming up-58-127 1.wav
-<group> key=59  pitch_keytrack=1
+<group> key=59  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=439 end=327743 sample=../Audio/Warming up 1-SAMPLES/Warming up-59-127 1.wav
-<group> key=60  pitch_keytrack=1
+<group> key=60  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=471 end=323583 sample=../Audio/Warming up 1-SAMPLES/Warming up-60-127 1.wav
-<group> key=61  pitch_keytrack=1
+<group> key=61  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=383 end=326271 sample=../Audio/Warming up 1-SAMPLES/Warming up-61-127 1.wav
-<group> key=62  pitch_keytrack=1
+<group> key=62  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=503 end=326911 sample=../Audio/Warming up 1-SAMPLES/Warming up-62-127 1.wav
-<group> key=63  pitch_keytrack=1
+<group> key=63  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=479 end=327359 sample=../Audio/Warming up 1-SAMPLES/Warming up-63-127 1.wav
-<group> key=64  pitch_keytrack=1
+<group> key=64  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=437 end=326143 sample=../Audio/Warming up 1-SAMPLES/Warming up-64-127 1.wav
-<group> key=65  pitch_keytrack=1
+<group> key=65  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=470 end=326719 sample=../Audio/Warming up 1-SAMPLES/Warming up-65-127 1.wav
-<group> key=66  pitch_keytrack=1
+<group> key=66  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=429 end=323647 sample=../Audio/Warming up 1-SAMPLES/Warming up-66-127 1.wav
-<group> key=67  pitch_keytrack=1
+<group> key=67  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=506 end=325311 sample=../Audio/Warming up 1-SAMPLES/Warming up-67-127 1.wav
-<group> key=68  pitch_keytrack=1
+<group> key=68  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=355 end=329087 sample=../Audio/Warming up 1-SAMPLES/Warming up-68-127 1.wav
-<group> key=69  pitch_keytrack=1
+<group> key=69  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=383 end=330367 sample=../Audio/Warming up 1-SAMPLES/Warming up-69-127 1.wav
-<group> key=70  pitch_keytrack=1
+<group> key=70  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=489 end=324095 sample=../Audio/Warming up 1-SAMPLES/Warming up-70-127 1.wav
-<group> key=71  pitch_keytrack=1
+<group> key=71  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=360 end=324671 sample=../Audio/Warming up 1-SAMPLES/Warming up-71-127 1.wav
-<group> key=72  pitch_keytrack=1
+<group> key=72  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=472 end=326399 sample=../Audio/Warming up 1-SAMPLES/Warming up-72-127 1.wav
-<group> key=73  pitch_keytrack=1
+<group> key=73  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=376 end=327423 sample=../Audio/Warming up 1-SAMPLES/Warming up-73-127 1.wav
-<group> key=74  pitch_keytrack=1
+<group> key=74  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=439 end=331071 sample=../Audio/Warming up 1-SAMPLES/Warming up-74-127 1.wav
-<group> key=75  pitch_keytrack=1
+<group> key=75  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=383 end=326015 sample=../Audio/Warming up 1-SAMPLES/Warming up-75-127 1.wav
-<group> key=76  pitch_keytrack=1
+<group> key=76  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=368 end=326783 sample=../Audio/Warming up 1-SAMPLES/Warming up-76-127 1.wav
-<group> key=77  pitch_keytrack=1
+<group> key=77  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=495 end=328319 sample=../Audio/Warming up 1-SAMPLES/Warming up-77-127 1.wav
-<group> key=78  pitch_keytrack=1
+<group> key=78  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=445 end=327999 sample=../Audio/Warming up 1-SAMPLES/Warming up-78-127 1.wav
-<group> key=79  pitch_keytrack=1
+<group> key=79  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=497 end=324607 sample=../Audio/Warming up 1-SAMPLES/Warming up-79-127 1.wav
-<group> key=80  pitch_keytrack=1
+<group> key=80  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=494 end=323199 sample=../Audio/Warming up 1-SAMPLES/Warming up-80-127 1.wav
-<group> key=81  pitch_keytrack=1
+<group> key=81  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=511 end=326719 sample=../Audio/Warming up 1-SAMPLES/Warming up-81-127 1.wav
-<group> key=82  pitch_keytrack=1
+<group> key=82  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=278 end=326591 sample=../Audio/Warming up 1-SAMPLES/Warming up-82-127 1.wav
-<group> key=83  pitch_keytrack=1
+<group> key=83  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=459 end=323967 sample=../Audio/Warming up 1-SAMPLES/Warming up-83-127 1.wav
-<group> key=84  pitch_keytrack=1
+<group> key=84  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=477 end=328319 sample=../Audio/Warming up 1-SAMPLES/Warming up-84-127 1.wav
-<group> key=85  pitch_keytrack=1
+<group> key=85  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=481 end=325119 sample=../Audio/Warming up 1-SAMPLES/Warming up-85-127 1.wav
-<group> key=86  pitch_keytrack=1
+<group> key=86  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=500 end=325567 sample=../Audio/Warming up 1-SAMPLES/Warming up-86-127 1.wav
-<group> key=87  pitch_keytrack=1
+<group> key=87  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=506 end=326591 sample=../Audio/Warming up 1-SAMPLES/Warming up-87-127 1.wav
-<group> key=88  pitch_keytrack=1
+<group> key=88  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=500 end=326527 sample=../Audio/Warming up 1-SAMPLES/Warming up-88-127 1.wav
-<group> key=89  pitch_keytrack=1
+<group> key=89  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=382 end=324415 sample=../Audio/Warming up 1-SAMPLES/Warming up-89-127 1.wav
-<group> key=90  pitch_keytrack=1
+<group> key=90  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=274 end=325631 sample=../Audio/Warming up 1-SAMPLES/Warming up-90-127 1.wav
-<group> key=91  pitch_keytrack=1
+<group> key=91  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=495 end=326143 sample=../Audio/Warming up 1-SAMPLES/Warming up-91-127 1.wav
-<group> key=92  pitch_keytrack=1
+<group> key=92  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=428 end=324991 sample=../Audio/Warming up 1-SAMPLES/Warming up-92-127 1.wav
-<group> key=93  pitch_keytrack=1
+<group> key=93  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=457 end=326143 sample=../Audio/Warming up 1-SAMPLES/Warming up-93-127 1.wav
-<group> key=94  pitch_keytrack=1
+<group> key=94  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=379 end=325823 sample=../Audio/Warming up 1-SAMPLES/Warming up-94-127 1.wav
-<group> key=95  pitch_keytrack=1
+<group> key=95  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=496 end=325375 sample=../Audio/Warming up 1-SAMPLES/Warming up-95-127 1.wav
-<group> key=96  pitch_keytrack=1
+<group> key=96  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=448 end=321791 sample=../Audio/Warming up 1-SAMPLES/Warming up-96-127 1.wav

@@ -5,7 +5,9 @@ A 3 oscillator digital/analogue hybrid released in the mid 80s.
 -   **Formats:** Kontakt, EXS24, SFZ
 -    **Info:** [wikipedia.org](https://en.wikipedia.org/wiki/Ensoniq_ESQ-1)
 -   
-**Audio:** https://www.dropbox.com/sh/0nd1dpcj7o0x76f/AACgrVHBarmiboc1ApP9RdCIa?dl=0
+**This collection requires you to download the audio seperately**
+
+[Download Audio from Dropbox](https://www.dropbox.com/sh/0nd1dpcj7o0x76f/AACgrVHBarmiboc1ApP9RdCIa?dl=0)
 
 
 # Loading
@@ -33,5 +35,5 @@ The SFZ format is supported by a wide variety of synths and samplers as such, sp
 
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)

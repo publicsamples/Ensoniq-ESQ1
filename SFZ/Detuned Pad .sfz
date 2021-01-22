@@ -1,124 +1,124 @@
 // this file was generated from Detuned Pad .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
+<group> key=36  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=365 end=665855 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-36-127_0001.wav
-<group> key=37  pitch_keytrack=1
+<group> key=37  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=567 end=668159 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-37-127_0001.wav
-<group> key=38  pitch_keytrack=1
+<group> key=38  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=459 end=671743 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-38-127_0001.wav
-<group> key=39  pitch_keytrack=1
+<group> key=39  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=603 end=655615 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-39-127_0001.wav
-<group> key=40  pitch_keytrack=1
+<group> key=40  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=519 end=662527 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-40-127_0001.wav
-<group> key=41  pitch_keytrack=1
+<group> key=41  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=360 end=658175 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-41-127_0001.wav
-<group> key=42  pitch_keytrack=1
+<group> key=42  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=336 end=659711 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-42-127_0001.wav
-<group> key=43  pitch_keytrack=1
+<group> key=43  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=416 end=667135 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-43-127_0001.wav
-<group> key=44  pitch_keytrack=1
+<group> key=44  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=509 end=654591 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-44-127_0001.wav
-<group> key=45  pitch_keytrack=1
+<group> key=45  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=540 end=665087 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-45-127_0001.wav
-<group> key=46  pitch_keytrack=1
+<group> key=46  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=373 end=673535 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-46-127_0001.wav
-<group> key=47  pitch_keytrack=1
+<group> key=47  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=479 end=659199 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-47-127_0001.wav
-<group> key=48  pitch_keytrack=1
+<group> key=48  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=849 end=660223 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-48-127.wav
-<group> key=49  pitch_keytrack=1
+<group> key=49  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=309 end=663039 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-49-127.wav
-<group> key=50  pitch_keytrack=1
+<group> key=50  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=837 end=663551 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-50-127.wav
-<group> key=51  pitch_keytrack=1
+<group> key=51  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=435 end=663295 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-51-127.wav
-<group> key=52  pitch_keytrack=1
+<group> key=52  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=619 end=661247 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-52-127.wav
-<group> key=53  pitch_keytrack=1
+<group> key=53  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=663 end=656383 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-53-127.wav
-<group> key=54  pitch_keytrack=1
+<group> key=54  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=568 end=669695 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-54-127.wav
-<group> key=55  pitch_keytrack=1
+<group> key=55  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=602 end=658431 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-55-127.wav
-<group> key=56  pitch_keytrack=1
+<group> key=56  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=484 end=656383 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-56-127.wav
-<group> key=57  pitch_keytrack=1
+<group> key=57  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=601 end=657663 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-57-127.wav
-<group> key=58  pitch_keytrack=1
+<group> key=58  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=407 end=664063 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-58-127.wav
-<group> key=59  pitch_keytrack=1
+<group> key=59  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=588 end=659967 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-59-127.wav
-<group> key=60  pitch_keytrack=1
+<group> key=60  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=624 end=659711 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-60-127.wav
-<group> key=61  pitch_keytrack=1
+<group> key=61  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=578 end=660991 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-61-127.wav
-<group> key=62  pitch_keytrack=1
+<group> key=62  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=572 end=668671 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-62-127.wav
-<group> key=63  pitch_keytrack=1
+<group> key=63  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=517 end=658687 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-63-127.wav
-<group> key=64  pitch_keytrack=1
+<group> key=64  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=564 end=657151 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-64-127.wav
-<group> key=65  pitch_keytrack=1
+<group> key=65  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=299 end=660991 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-65-127.wav
-<group> key=66  pitch_keytrack=1
+<group> key=66  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=480 end=656895 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-66-127.wav
-<group> key=67  pitch_keytrack=1
+<group> key=67  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=415 end=657151 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-67-127.wav
-<group> key=68  pitch_keytrack=1
+<group> key=68  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=584 end=658687 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-68-127.wav
-<group> key=69  pitch_keytrack=1
+<group> key=69  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=530 end=662015 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-69-127.wav
-<group> key=70  pitch_keytrack=1
+<group> key=70  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=284 end=667135 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-70-127.wav
-<group> key=71  pitch_keytrack=1
+<group> key=71  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=420 end=659455 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-71-127.wav
-<group> key=72  pitch_keytrack=1
+<group> key=72  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=432 end=654591 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-72-127.wav
-<group> key=73  pitch_keytrack=1
+<group> key=73  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=488 end=656127 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-73-127.wav
-<group> key=74  pitch_keytrack=1
+<group> key=74  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=504 end=657407 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-74-127.wav
-<group> key=75  pitch_keytrack=1
+<group> key=75  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=457 end=657407 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-75-127.wav
-<group> key=76  pitch_keytrack=1
+<group> key=76  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=691 end=656383 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-76-127.wav
-<group> key=77  pitch_keytrack=1
+<group> key=77  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=596 end=660223 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-77-127.wav
-<group> key=78  pitch_keytrack=1
+<group> key=78  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=507 end=666623 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-78-127.wav
-<group> key=79  pitch_keytrack=1
+<group> key=79  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=580 end=656895 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-79-127.wav
-<group> key=80  pitch_keytrack=1
+<group> key=80  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=395 end=655871 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-80-127.wav
-<group> key=81  pitch_keytrack=1
+<group> key=81  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=314 end=655359 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-81-127.wav
-<group> key=82  pitch_keytrack=1
+<group> key=82  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=557 end=656383 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-82-127.wav
-<group> key=83  pitch_keytrack=1
+<group> key=83  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=464 end=653567 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-83-127.wav
-<group> key=84  pitch_keytrack=1
+<group> key=84  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=589 end=656895 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-84-127.wav
-<group> key=85  pitch_keytrack=1
+<group> key=85  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=486 end=658943 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-85-127.wav
-<group> key=86  pitch_keytrack=1
+<group> key=86  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=593 end=667647 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-86-127.wav
-<group> key=87  pitch_keytrack=1
+<group> key=87  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=465 end=654847 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-87-127.wav
-<group> key=88  pitch_keytrack=1
+<group> key=88  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=365 end=651519 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-88-127.wav
-<group> key=89  pitch_keytrack=1
+<group> key=89  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=576 end=652543 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-89-127.wav
-<group> key=90  pitch_keytrack=1
+<group> key=90  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=320 end=651775 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-90-127.wav
-<group> key=91  pitch_keytrack=1
+<group> key=91  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=439 end=653055 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-91-127.wav
-<group> key=92  pitch_keytrack=1
+<group> key=92  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=582 end=652799 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-92-127.wav
-<group> key=93  pitch_keytrack=1
+<group> key=93  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=511 end=656639 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-93-127.wav
-<group> key=94  pitch_keytrack=1
+<group> key=94  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=402 end=665855 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-94-127.wav
-<group> key=95  pitch_keytrack=1
+<group> key=95  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=392 end=652799 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-95-127.wav
-<group> key=96  pitch_keytrack=1
+<group> key=96  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1022 end=647679 sample=../Audio/Detuned Pad 1-SAMPLES/Detuned Pad-96-127.wav

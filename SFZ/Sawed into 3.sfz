@@ -1,124 +1,124 @@
 // this file was generated from Sawed into 3.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
+<group> key=36  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=533 end=697855 loop_mode=loop_sustain loop_start=64445 loop_end=154541 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -36-127.wav
-<group> key=37  pitch_keytrack=1
+<group> key=37  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=323 end=696319 loop_mode=loop_sustain loop_start=277220 loop_end=368047 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -37-127.wav
-<group> key=38  pitch_keytrack=1
+<group> key=38  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=464 end=696575 loop_mode=loop_sustain loop_start=258557 loop_end=352961 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -38-127.wav
-<group> key=39  pitch_keytrack=1
+<group> key=39  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=641 end=696319 loop_mode=loop_sustain loop_start=331728 loop_end=433949 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -39-127.wav
-<group> key=40  pitch_keytrack=1
+<group> key=40  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=564 end=697087 loop_mode=loop_sustain loop_start=62292 loop_end=151336 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -40-127.wav
-<group> key=41  pitch_keytrack=1
+<group> key=41  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=451 end=696319 loop_mode=loop_sustain loop_start=344817 loop_end=436927 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -41-127.wav
-<group> key=42  pitch_keytrack=1
+<group> key=42  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=496 end=697087 loop_mode=loop_sustain loop_start=175035 loop_end=276373 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -42-127.wav
-<group> key=43  pitch_keytrack=1
+<group> key=43  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=498 end=695295 loop_mode=loop_sustain loop_start=233111 loop_end=324206 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -43-127.wav
-<group> key=44  pitch_keytrack=1
+<group> key=44  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=503 end=698111 loop_mode=loop_sustain loop_start=338731 loop_end=432904 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -44-127.wav
-<group> key=45  pitch_keytrack=1
+<group> key=45  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=477 end=697343 loop_mode=loop_sustain loop_start=204457 loop_end=295576 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -45-127.wav
-<group> key=46  pitch_keytrack=1
+<group> key=46  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=654 end=695551 loop_mode=loop_sustain loop_start=181390 loop_end=270452 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -46-127.wav
-<group> key=47  pitch_keytrack=1
+<group> key=47  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=637 end=695807 loop_mode=loop_sustain loop_start=324469 loop_end=416319 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -47-127.wav
-<group> key=48  pitch_keytrack=1
+<group> key=48  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=421 end=697343 loop_mode=loop_sustain loop_start=42031 loop_end=132833 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -48-127.wav
-<group> key=49  pitch_keytrack=1
+<group> key=49  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=529 end=697087 loop_mode=loop_sustain loop_start=322872 loop_end=411315 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -49-127.wav
-<group> key=50  pitch_keytrack=1
+<group> key=50  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=483 end=697343 loop_mode=loop_sustain loop_start=254066 loop_end=344193 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -50-127.wav
-<group> key=51  pitch_keytrack=1
+<group> key=51  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=463 end=695551 loop_mode=loop_sustain loop_start=205942 loop_end=297898 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -51-127.wav
-<group> key=52  pitch_keytrack=1
+<group> key=52  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=460 end=697343 loop_mode=loop_sustain loop_start=178478 loop_end=269643 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -52-127.wav
-<group> key=53  pitch_keytrack=1
+<group> key=53  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=525 end=697087 loop_mode=loop_sustain loop_start=129571 loop_end=219625 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -53-127.wav
-<group> key=54  pitch_keytrack=1
+<group> key=54  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=478 end=695551 loop_mode=loop_sustain loop_start=173290 loop_end=264861 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -54-127.wav
-<group> key=55  pitch_keytrack=1
+<group> key=55  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=599 end=696319 loop_mode=loop_sustain loop_start=47393 loop_end=138522 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -55-127.wav
-<group> key=56  pitch_keytrack=1
+<group> key=56  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=369 end=696575 loop_mode=loop_sustain loop_start=206783 loop_end=296815 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -56-127.wav
-<group> key=57  pitch_keytrack=1
+<group> key=57  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=352 end=696319 loop_mode=loop_sustain loop_start=54465 loop_end=143925 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -57-127.wav
-<group> key=58  pitch_keytrack=1
+<group> key=58  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=435 end=696063 loop_mode=loop_sustain loop_start=228820 loop_end=323580 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -58-127.wav
-<group> key=59  pitch_keytrack=1
+<group> key=59  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=568 end=689919 loop_mode=loop_sustain loop_start=231664 loop_end=319633 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -59-127.wav
-<group> key=60  pitch_keytrack=1
+<group> key=60  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=468 end=696319 loop_mode=loop_sustain loop_start=180450 loop_end=272382 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -60-127.wav
-<group> key=61  pitch_keytrack=1
+<group> key=61  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=522 end=697599 loop_mode=loop_sustain loop_start=195113 loop_end=288176 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -61-127.wav
-<group> key=62  pitch_keytrack=1
+<group> key=62  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=578 end=696063 loop_mode=loop_sustain loop_start=347519 loop_end=436675 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -62-127.wav
-<group> key=63  pitch_keytrack=1
+<group> key=63  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=369 end=696063 loop_mode=loop_sustain loop_start=218336 loop_end=307327 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -63-127.wav
-<group> key=64  pitch_keytrack=1
+<group> key=64  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=490 end=697599 loop_mode=loop_sustain loop_start=77062 loop_end=165504 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -64-127.wav
-<group> key=65  pitch_keytrack=1
+<group> key=65  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=396 end=697343 loop_mode=loop_sustain loop_start=135197 loop_end=228027 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -65-127.wav
-<group> key=66  pitch_keytrack=1
+<group> key=66  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=350 end=697087 loop_mode=loop_sustain loop_start=285626 loop_end=376770 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -66-127.wav
-<group> key=67  pitch_keytrack=1
+<group> key=67  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=550 end=688127 loop_mode=loop_sustain loop_start=57968 loop_end=152907 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -67-127.wav
-<group> key=68  pitch_keytrack=1
+<group> key=68  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=591 end=697343 loop_mode=loop_sustain loop_start=326142 loop_end=414771 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -68-127.wav
-<group> key=69  pitch_keytrack=1
+<group> key=69  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=567 end=697087 loop_mode=loop_sustain loop_start=69321 loop_end=158675 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -69-127.wav
-<group> key=70  pitch_keytrack=1
+<group> key=70  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=505 end=695039 loop_mode=loop_sustain loop_start=57177 loop_end=151607 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -70-127.wav
-<group> key=71  pitch_keytrack=1
+<group> key=71  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=525 end=694527 loop_mode=loop_sustain loop_start=347227 loop_end=436444 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -71-127.wav
-<group> key=72  pitch_keytrack=1
+<group> key=72  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=302 end=696063 loop_mode=loop_sustain loop_start=41198 loop_end=133798 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -72-127.wav
-<group> key=73  pitch_keytrack=1
+<group> key=73  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=507 end=697855 loop_mode=loop_sustain loop_start=44628 loop_end=136290 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -73-127.wav
-<group> key=74  pitch_keytrack=1
+<group> key=74  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=398 end=696575 loop_mode=loop_sustain loop_start=345394 loop_end=434341 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -74-127.wav
-<group> key=75  pitch_keytrack=1
+<group> key=75  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=459 end=687615 loop_mode=loop_sustain loop_start=66035 loop_end=157267 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -75-127.wav
-<group> key=76  pitch_keytrack=1
+<group> key=76  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=399 end=696063 loop_mode=loop_sustain loop_start=118711 loop_end=209034 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -76-127.wav
-<group> key=77  pitch_keytrack=1
+<group> key=77  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=509 end=696575 loop_mode=loop_sustain loop_start=73974 loop_end=162819 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -77-127.wav
-<group> key=78  pitch_keytrack=1
+<group> key=78  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=526 end=697599 loop_mode=loop_sustain loop_start=244327 loop_end=337257 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -78-127.wav
-<group> key=79  pitch_keytrack=1
+<group> key=79  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=354 end=695039 loop_mode=loop_sustain loop_start=315998 loop_end=405960 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -79-127.wav
-<group> key=80  pitch_keytrack=1
+<group> key=80  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=613 end=695295 loop_mode=loop_sustain loop_start=300946 loop_end=388763 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -80-127.wav
-<group> key=81  pitch_keytrack=1
+<group> key=81  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=692 end=695295 loop_mode=loop_sustain loop_start=296574 loop_end=391808 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -81-127.wav
-<group> key=82  pitch_keytrack=1
+<group> key=82  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=368 end=696831 loop_mode=loop_sustain loop_start=17093 loop_end=108685 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -82-127.wav
-<group> key=83  pitch_keytrack=1
+<group> key=83  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=434 end=687871 loop_mode=loop_sustain loop_start=320775 loop_end=411026 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -83-127.wav
-<group> key=84  pitch_keytrack=1
+<group> key=84  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=474 end=698111 loop_mode=loop_sustain loop_start=337490 loop_end=427424 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -84-127.wav
-<group> key=85  pitch_keytrack=1
+<group> key=85  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=590 end=695551 loop_mode=loop_sustain loop_start=7304 loop_end=96790 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -85-127.wav
-<group> key=86  pitch_keytrack=1
+<group> key=86  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=646 end=696063 loop_mode=loop_sustain loop_start=345657 loop_end=435698 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -86-127.wav
-<group> key=87  pitch_keytrack=1
+<group> key=87  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=473 end=687359 loop_mode=loop_sustain loop_start=29189 loop_end=124251 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -87-127.wav
-<group> key=88  pitch_keytrack=1
+<group> key=88  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=679 end=697599 loop_mode=loop_sustain loop_start=289124 loop_end=380041 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -88-127.wav
-<group> key=89  pitch_keytrack=1
+<group> key=89  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=573 end=696319 loop_mode=loop_sustain loop_start=327291 loop_end=418186 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -89-127.wav
-<group> key=90  pitch_keytrack=1
+<group> key=90  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=474 end=695551 loop_mode=loop_sustain loop_start=246034 loop_end=341941 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -90-127.wav
-<group> key=91  pitch_keytrack=1
+<group> key=91  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=400 end=686335 loop_mode=loop_sustain loop_start=231886 loop_end=322901 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -91-127.wav
-<group> key=92  pitch_keytrack=1
+<group> key=92  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=346 end=695551 loop_mode=loop_sustain loop_start=208238 loop_end=299544 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -92-127.wav
-<group> key=93  pitch_keytrack=1
+<group> key=93  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=377 end=696063 loop_mode=loop_sustain loop_start=295216 loop_end=385870 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -93-127.wav
-<group> key=94  pitch_keytrack=1
+<group> key=94  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=436 end=696319 loop_mode=loop_sustain loop_start=10686 loop_end=107844 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -94-127.wav
-<group> key=95  pitch_keytrack=1
+<group> key=95  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=565 end=687615 loop_mode=loop_sustain loop_start=294529 loop_end=388554 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -95-127.wav
-<group> key=96  pitch_keytrack=1
+<group> key=96  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=499 end=696575 loop_mode=loop_sustain loop_start=23083 loop_end=115592 sample=../Audio/Sawed into 3-SAMPLES/Sawed into 3 -96-127.wav

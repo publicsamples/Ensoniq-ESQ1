@@ -1,124 +1,124 @@
 // this file was generated from Pig Meat SEQ 135 .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
+<group> key=36  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=44 end=1022271 loop_mode=loop_sustain loop_start=392546 loop_end=549516 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-36-127.wav
-<group> key=37  pitch_keytrack=1
+<group> key=37  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=365 end=966079 loop_mode=loop_sustain loop_start=469481 loop_end=625774 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-37-127.wav
-<group> key=38  pitch_keytrack=1
+<group> key=38  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=407 end=984063 loop_mode=loop_sustain loop_start=445894 loop_end=603080 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-38-127.wav
-<group> key=39  pitch_keytrack=1
+<group> key=39  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=508 end=970175 loop_mode=loop_sustain loop_start=325470 loop_end=598956 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-39-127.wav
-<group> key=40  pitch_keytrack=1
+<group> key=40  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=374 end=954623 loop_mode=loop_sustain loop_start=469455 loop_end=626603 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-40-127.wav
-<group> key=41  pitch_keytrack=1
+<group> key=41  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=353 end=955199 loop_mode=loop_sustain loop_start=317120 loop_end=591644 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-41-127.wav
-<group> key=42  pitch_keytrack=1
+<group> key=42  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=385 end=969855 loop_mode=loop_sustain loop_start=366042 loop_end=523001 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-42-127.wav
-<group> key=43  pitch_keytrack=1
+<group> key=43  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=410 end=953855 loop_mode=loop_sustain loop_start=338231 loop_end=612495 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-43-127.wav
-<group> key=44  pitch_keytrack=1
+<group> key=44  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=494 end=970175 loop_mode=loop_sustain loop_start=413939 loop_end=570574 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-44-127.wav
-<group> key=45  pitch_keytrack=1
+<group> key=45  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=493 end=963775 loop_mode=loop_sustain loop_start=439149 loop_end=595780 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-45-127.wav
-<group> key=46  pitch_keytrack=1
+<group> key=46  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=392 end=962047 loop_mode=loop_sustain loop_start=410904 loop_end=685412 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-46-127.wav
-<group> key=47  pitch_keytrack=1
+<group> key=47  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=794 end=963711 loop_mode=loop_sustain loop_start=350088 loop_end=545818 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-47-127.wav
-<group> key=48  pitch_keytrack=1
+<group> key=48  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=512 end=959743 loop_mode=loop_sustain loop_start=346408 loop_end=503014 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-48-127.wav
-<group> key=49  pitch_keytrack=1
+<group> key=49  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=384 end=955327 loop_mode=loop_sustain loop_start=329005 loop_end=484874 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-49-127.wav
-<group> key=50  pitch_keytrack=1
+<group> key=50  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=374 end=969919 loop_mode=loop_sustain loop_start=295106 loop_end=530464 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-50-127.wav
-<group> key=51  pitch_keytrack=1
+<group> key=51  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=355 end=962111 loop_mode=loop_sustain loop_start=335251 loop_end=491782 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-51-127.wav
-<group> key=52  pitch_keytrack=1
+<group> key=52  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=312 end=973951 loop_mode=loop_sustain loop_start=294919 loop_end=568781 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-52-127.wav
-<group> key=53  pitch_keytrack=1
+<group> key=53  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=343 end=971647 loop_mode=loop_sustain loop_start=380832 loop_end=537903 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-53-127.wav
-<group> key=54  pitch_keytrack=1
+<group> key=54  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=401 end=966207 loop_mode=loop_sustain loop_start=275323 loop_end=432162 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-54-127.wav
-<group> key=55  pitch_keytrack=1
+<group> key=55  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=376 end=961023 loop_mode=loop_sustain loop_start=465648 loop_end=621995 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-55-127.wav
-<group> key=56  pitch_keytrack=1
+<group> key=56  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=411 end=961343 loop_mode=loop_sustain loop_start=331700 loop_end=487986 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-56-127.wav
-<group> key=57  pitch_keytrack=1
+<group> key=57  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=390 end=957375 loop_mode=loop_sustain loop_start=471295 loop_end=627978 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-57-127.wav
-<group> key=58  pitch_keytrack=1
+<group> key=58  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=353 end=970623 loop_mode=loop_sustain loop_start=455827 loop_end=612577 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-58-127.wav
-<group> key=59  pitch_keytrack=1
+<group> key=59  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=382 end=957119 loop_mode=loop_sustain loop_start=282456 loop_end=674532 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-59-127.wav
-<group> key=60  pitch_keytrack=1
+<group> key=60  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=376 end=970495 loop_mode=loop_sustain loop_start=479354 loop_end=636474 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-60-127.wav
-<group> key=61  pitch_keytrack=1
+<group> key=61  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=386 end=955007 loop_mode=loop_sustain loop_start=467247 loop_end=623900 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-61-127.wav
-<group> key=62  pitch_keytrack=1
+<group> key=62  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=450 end=972351 loop_mode=loop_sustain loop_start=376099 loop_end=532948 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-62-127.wav
-<group> key=63  pitch_keytrack=1
+<group> key=63  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=348 end=969215 loop_mode=loop_sustain loop_start=407716 loop_end=564425 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-63-127.wav
-<group> key=64  pitch_keytrack=1
+<group> key=64  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=382 end=17087 loop_mode=loop_sustain loop_start=6179 loop_end=10126 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-64-127.wav
-<group> key=65  pitch_keytrack=1
+<group> key=65  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=334 end=950143 loop_mode=loop_sustain loop_start=288983 loop_end=563515 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-65-127.wav
-<group> key=66  pitch_keytrack=1
+<group> key=66  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=298 end=957055 loop_mode=loop_sustain loop_start=361915 loop_end=676286 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-66-127.wav
-<group> key=67  pitch_keytrack=1
+<group> key=67  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=410 end=939839 loop_mode=loop_sustain loop_start=400680 loop_end=636109 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-67-127.wav
-<group> key=68  pitch_keytrack=1
+<group> key=68  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=423 end=965503 loop_mode=loop_sustain loop_start=382469 loop_end=618443 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-68-127.wav
-<group> key=69  pitch_keytrack=1
+<group> key=69  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=427 end=960319 loop_mode=loop_sustain loop_start=415990 loop_end=611720 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-69-127.wav
-<group> key=70  pitch_keytrack=1
+<group> key=70  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=375 end=954175 loop_mode=loop_sustain loop_start=477415 loop_end=634183 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-70-127.wav
-<group> key=71  pitch_keytrack=1
+<group> key=71  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=359 end=963071 loop_mode=loop_sustain loop_start=295217 loop_end=569676 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-71-127.wav
-<group> key=72  pitch_keytrack=1
+<group> key=72  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=389 end=970047 loop_mode=loop_sustain loop_start=539912 loop_end=696645 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-72-127.wav
-<group> key=73  pitch_keytrack=1
+<group> key=73  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=444 end=14847 loop_mode=loop_sustain loop_start=485 loop_end=1283 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-73-127.wav
-<group> key=74  pitch_keytrack=1
+<group> key=74  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=257 end=965695 loop_mode=loop_sustain loop_start=276637 loop_end=433379 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-74-127.wav
-<group> key=75  pitch_keytrack=1
+<group> key=75  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=372 end=958975 loop_mode=loop_sustain loop_start=256726 loop_end=649727 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-75-127.wav
-<group> key=76  pitch_keytrack=1
+<group> key=76  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=405 end=977535 loop_mode=loop_sustain loop_start=316716 loop_end=708963 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-76-127.wav
-<group> key=77  pitch_keytrack=1
+<group> key=77  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=258 end=971199 loop_mode=loop_sustain loop_start=493961 loop_end=650978 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-77-127.wav
-<group> key=78  pitch_keytrack=1
+<group> key=78  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=331 end=960511 loop_mode=loop_sustain loop_start=404785 loop_end=679246 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-78-127.wav
-<group> key=79  pitch_keytrack=1
+<group> key=79  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=448 end=970047 loop_mode=loop_sustain loop_start=421043 loop_end=577843 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-79-127.wav
-<group> key=80  pitch_keytrack=1
+<group> key=80  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=380 end=967423 loop_mode=loop_sustain loop_start=206238 loop_end=599399 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-80-127.wav
-<group> key=81  pitch_keytrack=1
+<group> key=81  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=414 end=25407 loop_mode=loop_sustain loop_start=8295 loop_end=11000 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-81-127.wav
-<group> key=82  pitch_keytrack=1
+<group> key=82  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=443 end=982527 loop_mode=loop_sustain loop_start=455953 loop_end=730217 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-82-127.wav
-<group> key=83  pitch_keytrack=1
+<group> key=83  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=426 end=949951 loop_mode=loop_sustain loop_start=257925 loop_end=453543 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-83-127.wav
-<group> key=84  pitch_keytrack=1
+<group> key=84  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=635 end=970623 loop_mode=loop_sustain loop_start=484967 loop_end=641658 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-84-127.wav
-<group> key=85  pitch_keytrack=1
+<group> key=85  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=335 end=978047 loop_mode=loop_sustain loop_start=241874 loop_end=673092 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-85-127.wav
-<group> key=86  pitch_keytrack=1
+<group> key=86  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=421 end=971071 loop_mode=loop_sustain loop_start=228603 loop_end=620424 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-86-127.wav
-<group> key=87  pitch_keytrack=1
+<group> key=87  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=353 end=969407 loop_mode=loop_sustain loop_start=219278 loop_end=493870 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-87-127.wav
-<group> key=88  pitch_keytrack=1
+<group> key=88  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=417 end=953151 loop_mode=loop_sustain loop_start=309650 loop_end=466337 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-88-127.wav
-<group> key=89  pitch_keytrack=1
+<group> key=89  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=364 end=13247 loop_mode=loop_sustain loop_start=2846 loop_end=5801 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-89-127.wav
-<group> key=90  pitch_keytrack=1
+<group> key=90  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=453 end=974143 loop_mode=loop_sustain loop_start=268674 loop_end=425342 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-90-127.wav
-<group> key=91  pitch_keytrack=1
+<group> key=91  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=418 end=959743 loop_mode=loop_sustain loop_start=282802 loop_end=556624 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-91-127.wav
-<group> key=92  pitch_keytrack=1
+<group> key=92  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=348 end=981887 loop_mode=loop_sustain loop_start=505124 loop_end=660969 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-92-127.wav
-<group> key=93  pitch_keytrack=1
+<group> key=93  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=587 end=963135 loop_mode=loop_sustain loop_start=318677 loop_end=632394 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-93-127.wav
-<group> key=94  pitch_keytrack=1
+<group> key=94  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6042 end=55487 loop_mode=loop_sustain loop_start=25715 loop_end=34927 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-94-127.wav
-<group> key=95  pitch_keytrack=1
+<group> key=95  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6819 end=960383 loop_mode=loop_sustain loop_start=505301 loop_end=661342 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-95-127.wav
-<group> key=96  pitch_keytrack=1
+<group> key=96  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=383 end=966335 loop_mode=loop_sustain loop_start=180307 loop_end=729257 sample=../Audio/Pig Meat SEQ 135 1-SAMPLES/ESQ1 Pig Meat SEQ1-96-127.wav

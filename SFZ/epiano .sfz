@@ -1,185 +1,185 @@
 // this file was generated from epiano .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
+<group> key=36  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=308 end=444415 sample=../Audio/epiano 1-SAMPLES/epiano-36-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=372 end=443967 sample=../Audio/epiano 1-SAMPLES/epiano-36-127.wav
-<group> key=37  pitch_keytrack=1
+<group> key=37  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=428 end=443391 sample=../Audio/epiano 1-SAMPLES/epiano-37-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=341 end=457727 sample=../Audio/epiano 1-SAMPLES/epiano-37-127.wav
-<group> key=38  pitch_keytrack=1
+<group> key=38  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=275 end=445375 sample=../Audio/epiano 1-SAMPLES/epiano-38-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=420 end=444607 sample=../Audio/epiano 1-SAMPLES/epiano-38-127.wav
-<group> key=39  pitch_keytrack=1
+<group> key=39  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=382 end=444095 sample=../Audio/epiano 1-SAMPLES/epiano-39-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=372 end=441535 sample=../Audio/epiano 1-SAMPLES/epiano-39-127.wav
-<group> key=40  pitch_keytrack=1
+<group> key=40  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=384 end=443839 sample=../Audio/epiano 1-SAMPLES/epiano-40-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=416 end=443583 sample=../Audio/epiano 1-SAMPLES/epiano-40-127.wav
-<group> key=41  pitch_keytrack=1
+<group> key=41  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=412 end=451391 sample=../Audio/epiano 1-SAMPLES/epiano-41-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=475 end=443967 sample=../Audio/epiano 1-SAMPLES/epiano-41-127.wav
-<group> key=42  pitch_keytrack=1
+<group> key=42  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=274 end=444863 sample=../Audio/epiano 1-SAMPLES/epiano-42-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=348 end=446847 sample=../Audio/epiano 1-SAMPLES/epiano-42-127.wav
-<group> key=43  pitch_keytrack=1
+<group> key=43  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=377 end=447679 sample=../Audio/epiano 1-SAMPLES/epiano-43-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=375 end=443647 sample=../Audio/epiano 1-SAMPLES/epiano-43-127.wav
-<group> key=44  pitch_keytrack=1
+<group> key=44  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=270 end=444543 sample=../Audio/epiano 1-SAMPLES/epiano-44-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=367 end=446463 sample=../Audio/epiano 1-SAMPLES/epiano-44-127.wav
-<group> key=45  pitch_keytrack=1
+<group> key=45  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=410 end=443391 sample=../Audio/epiano 1-SAMPLES/epiano-45-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=391 end=443071 sample=../Audio/epiano 1-SAMPLES/epiano-45-127.wav
-<group> key=46  pitch_keytrack=1
+<group> key=46  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=264 end=443903 sample=../Audio/epiano 1-SAMPLES/epiano-46-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=388 end=444735 sample=../Audio/epiano 1-SAMPLES/epiano-46-127.wav
-<group> key=47  pitch_keytrack=1
+<group> key=47  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=312 end=445823 sample=../Audio/epiano 1-SAMPLES/epiano-47-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=420 end=442687 sample=../Audio/epiano 1-SAMPLES/epiano-47-127.wav
-<group> key=48  pitch_keytrack=1
+<group> key=48  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=342 end=442495 sample=../Audio/epiano 1-SAMPLES/epiano-48-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=374 end=444543 sample=../Audio/epiano 1-SAMPLES/epiano-48-127.wav
-<group> key=49  pitch_keytrack=1
+<group> key=49  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=364 end=446527 sample=../Audio/epiano 1-SAMPLES/epiano-49-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=436 end=444351 sample=../Audio/epiano 1-SAMPLES/epiano-49-127.wav
-<group> key=50  pitch_keytrack=1
+<group> key=50  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=345 end=443199 sample=../Audio/epiano 1-SAMPLES/epiano-50-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=360 end=450623 sample=../Audio/epiano 1-SAMPLES/epiano-50-127.wav
-<group> key=51  pitch_keytrack=1
+<group> key=51  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=260 end=446079 sample=../Audio/epiano 1-SAMPLES/epiano-51-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=416 end=447743 sample=../Audio/epiano 1-SAMPLES/epiano-51-127.wav
-<group> key=52  pitch_keytrack=1
+<group> key=52  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=290 end=445055 sample=../Audio/epiano 1-SAMPLES/epiano-52-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=430 end=445119 sample=../Audio/epiano 1-SAMPLES/epiano-52-127.wav
-<group> key=53  pitch_keytrack=1
+<group> key=53  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=438 end=443263 sample=../Audio/epiano 1-SAMPLES/epiano-53-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=350 end=443583 sample=../Audio/epiano 1-SAMPLES/epiano-53-127.wav
-<group> key=54  pitch_keytrack=1
+<group> key=54  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=439 end=443839 sample=../Audio/epiano 1-SAMPLES/epiano-54-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=386 end=447295 sample=../Audio/epiano 1-SAMPLES/epiano-54-127.wav
-<group> key=55  pitch_keytrack=1
+<group> key=55  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=424 end=443967 sample=../Audio/epiano 1-SAMPLES/epiano-55-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=398 end=443775 sample=../Audio/epiano 1-SAMPLES/epiano-55-127.wav
-<group> key=56  pitch_keytrack=1
+<group> key=56  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=405 end=443519 sample=../Audio/epiano 1-SAMPLES/epiano-56-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=360 end=441919 sample=../Audio/epiano 1-SAMPLES/epiano-56-127.wav
-<group> key=57  pitch_keytrack=1
+<group> key=57  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=344 end=443775 sample=../Audio/epiano 1-SAMPLES/epiano-57-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=408 end=445631 sample=../Audio/epiano 1-SAMPLES/epiano-57-127.wav
-<group> key=58  pitch_keytrack=1
+<group> key=58  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=341 end=448319 sample=../Audio/epiano 1-SAMPLES/epiano-58-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=310 end=449855 sample=../Audio/epiano 1-SAMPLES/epiano-58-127.wav
-<group> key=59  pitch_keytrack=1
+<group> key=59  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=347 end=445247 sample=../Audio/epiano 1-SAMPLES/epiano-59-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=368 end=442367 sample=../Audio/epiano 1-SAMPLES/epiano-59-127.wav
-<group> key=60  pitch_keytrack=1
+<group> key=60  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=274 end=445247 sample=../Audio/epiano 1-SAMPLES/epiano-60-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=386 end=445439 sample=../Audio/epiano 1-SAMPLES/epiano-60-127.wav
-<group> key=61  pitch_keytrack=1
+<group> key=61  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=279 end=444223 sample=../Audio/epiano 1-SAMPLES/epiano-61-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=402 end=446783 sample=../Audio/epiano 1-SAMPLES/epiano-61-127.wav
-<group> key=62  pitch_keytrack=1
+<group> key=62  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=368 end=445183 sample=../Audio/epiano 1-SAMPLES/epiano-62-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=273 end=442943 sample=../Audio/epiano 1-SAMPLES/epiano-62-127.wav
-<group> key=63  pitch_keytrack=1
+<group> key=63  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=402 end=444479 sample=../Audio/epiano 1-SAMPLES/epiano-63-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=365 end=446591 sample=../Audio/epiano 1-SAMPLES/epiano-63-127.wav
-<group> key=64  pitch_keytrack=1
+<group> key=64  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=417 end=436287 sample=../Audio/epiano 1-SAMPLES/epiano-64-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=383 end=444607 sample=../Audio/epiano 1-SAMPLES/epiano-64-127.wav
-<group> key=65  pitch_keytrack=1
+<group> key=65  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=442 end=444287 sample=../Audio/epiano 1-SAMPLES/epiano-65-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=360 end=445055 sample=../Audio/epiano 1-SAMPLES/epiano-65-127.wav
-<group> key=66  pitch_keytrack=1
+<group> key=66  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=169 end=444735 sample=../Audio/epiano 1-SAMPLES/epiano-66-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=276 end=442623 sample=../Audio/epiano 1-SAMPLES/epiano-66-127.wav
-<group> key=67  pitch_keytrack=1
+<group> key=67  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=307 end=444095 sample=../Audio/epiano 1-SAMPLES/epiano-67-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=427 end=445503 sample=../Audio/epiano 1-SAMPLES/epiano-67-127.wav
-<group> key=68  pitch_keytrack=1
+<group> key=68  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=291 end=428543 sample=../Audio/epiano 1-SAMPLES/epiano-68-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=289 end=444351 sample=../Audio/epiano 1-SAMPLES/epiano-68-127.wav
-<group> key=69  pitch_keytrack=1
+<group> key=69  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=335 end=445631 sample=../Audio/epiano 1-SAMPLES/epiano-69-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=351 end=449215 sample=../Audio/epiano 1-SAMPLES/epiano-69-127.wav
-<group> key=70  pitch_keytrack=1
+<group> key=70  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=278 end=442431 sample=../Audio/epiano 1-SAMPLES/epiano-70-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=329 end=442687 sample=../Audio/epiano 1-SAMPLES/epiano-70-127.wav
-<group> key=71  pitch_keytrack=1
+<group> key=71  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=353 end=438335 sample=../Audio/epiano 1-SAMPLES/epiano-71-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=318 end=447807 sample=../Audio/epiano 1-SAMPLES/epiano-71-127.wav
-<group> key=72  pitch_keytrack=1
+<group> key=72  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=285 end=416383 sample=../Audio/epiano 1-SAMPLES/epiano-72-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=344 end=445887 sample=../Audio/epiano 1-SAMPLES/epiano-72-127.wav
-<group> key=73  pitch_keytrack=1
+<group> key=73  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=414 end=435775 sample=../Audio/epiano 1-SAMPLES/epiano-73-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=356 end=443007 sample=../Audio/epiano 1-SAMPLES/epiano-73-127.wav
-<group> key=74  pitch_keytrack=1
+<group> key=74  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=266 end=436863 sample=../Audio/epiano 1-SAMPLES/epiano-74-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=420 end=444159 sample=../Audio/epiano 1-SAMPLES/epiano-74-127.wav
-<group> key=75  pitch_keytrack=1
+<group> key=75  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=365 end=427327 sample=../Audio/epiano 1-SAMPLES/epiano-75-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=354 end=444863 sample=../Audio/epiano 1-SAMPLES/epiano-75-127.wav
-<group> key=76  pitch_keytrack=1
+<group> key=76  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=292 end=406335 sample=../Audio/epiano 1-SAMPLES/epiano-76-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=312 end=444287 sample=../Audio/epiano 1-SAMPLES/epiano-76-127.wav
-<group> key=77  pitch_keytrack=1
+<group> key=77  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=379 end=427199 sample=../Audio/epiano 1-SAMPLES/epiano-77-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=340 end=443967 sample=../Audio/epiano 1-SAMPLES/epiano-77-127.wav
-<group> key=78  pitch_keytrack=1
+<group> key=78  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=261 end=425535 sample=../Audio/epiano 1-SAMPLES/epiano-78-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=336 end=443519 sample=../Audio/epiano 1-SAMPLES/epiano-78-127.wav
-<group> key=79  pitch_keytrack=1
+<group> key=79  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=358 end=417279 sample=../Audio/epiano 1-SAMPLES/epiano-79-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=315 end=441471 sample=../Audio/epiano 1-SAMPLES/epiano-79-127.wav
-<group> key=80  pitch_keytrack=1
+<group> key=80  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=388 end=395647 sample=../Audio/epiano 1-SAMPLES/epiano-80-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=304 end=444479 sample=../Audio/epiano 1-SAMPLES/epiano-80-127.wav
-<group> key=81  pitch_keytrack=1
+<group> key=81  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=260 end=424767 sample=../Audio/epiano 1-SAMPLES/epiano-81-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=412 end=443071 sample=../Audio/epiano 1-SAMPLES/epiano-81-127.wav
-<group> key=82  pitch_keytrack=1
+<group> key=82  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=343 end=416255 sample=../Audio/epiano 1-SAMPLES/epiano-82-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=372 end=443775 sample=../Audio/epiano 1-SAMPLES/epiano-82-127.wav
-<group> key=83  pitch_keytrack=1
+<group> key=83  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=366 end=404607 sample=../Audio/epiano 1-SAMPLES/epiano-83-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=418 end=445183 sample=../Audio/epiano 1-SAMPLES/epiano-83-127.wav
-<group> key=84  pitch_keytrack=1
+<group> key=84  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=320 end=383423 sample=../Audio/epiano 1-SAMPLES/epiano-84-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=386 end=445823 sample=../Audio/epiano 1-SAMPLES/epiano-84-127.wav
-<group> key=85  pitch_keytrack=1
+<group> key=85  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=313 end=406271 sample=../Audio/epiano 1-SAMPLES/epiano-85-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=358 end=442111 sample=../Audio/epiano 1-SAMPLES/epiano-85-127.wav
-<group> key=86  pitch_keytrack=1
+<group> key=86  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=337 end=407231 sample=../Audio/epiano 1-SAMPLES/epiano-86-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=427 end=446015 sample=../Audio/epiano 1-SAMPLES/epiano-86-127.wav
-<group> key=87  pitch_keytrack=1
+<group> key=87  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=381 end=391679 sample=../Audio/epiano 1-SAMPLES/epiano-87-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=420 end=444351 sample=../Audio/epiano 1-SAMPLES/epiano-87-127.wav
-<group> key=88  pitch_keytrack=1
+<group> key=88  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=298 end=376895 sample=../Audio/epiano 1-SAMPLES/epiano-88-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=382 end=445567 sample=../Audio/epiano 1-SAMPLES/epiano-88-127.wav
-<group> key=89  pitch_keytrack=1
+<group> key=89  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=262 end=397055 sample=../Audio/epiano 1-SAMPLES/epiano-89-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=353 end=443903 sample=../Audio/epiano 1-SAMPLES/epiano-89-127.wav
-<group> key=90  pitch_keytrack=1
+<group> key=90  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=407 end=396095 sample=../Audio/epiano 1-SAMPLES/epiano-90-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=298 end=446079 sample=../Audio/epiano 1-SAMPLES/epiano-90-127.wav
-<group> key=91  pitch_keytrack=1
+<group> key=91  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=353 end=383551 sample=../Audio/epiano 1-SAMPLES/epiano-91-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=329 end=449215 sample=../Audio/epiano 1-SAMPLES/epiano-91-127.wav
-<group> key=92  pitch_keytrack=1
+<group> key=92  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=352 end=25407 sample=../Audio/epiano 1-SAMPLES/epiano-92-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=352 end=443007 sample=../Audio/epiano 1-SAMPLES/epiano-92-127.wav
-<group> key=93  pitch_keytrack=1
+<group> key=93  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=340 end=396095 sample=../Audio/epiano 1-SAMPLES/epiano-93-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=313 end=443903 sample=../Audio/epiano 1-SAMPLES/epiano-93-127.wav
-<group> key=94  pitch_keytrack=1
+<group> key=94  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=395 end=389311 sample=../Audio/epiano 1-SAMPLES/epiano-94-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=343 end=446655 sample=../Audio/epiano 1-SAMPLES/epiano-94-127.wav
-<group> key=95  pitch_keytrack=1
+<group> key=95  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=342 end=25023 sample=../Audio/epiano 1-SAMPLES/epiano-95-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=326 end=443903 sample=../Audio/epiano 1-SAMPLES/epiano-95-127.wav
-<group> key=96  pitch_keytrack=1
+<group> key=96  
 	<region> lovel=000 hivel=048 amp_velcurve_048=1 offset=404 end=10751 sample=../Audio/epiano 1-SAMPLES/epiano-96-48.wav
 	<region> lovel=049 hivel=127 amp_velcurve_127=1 offset=430 end=444351 sample=../Audio/epiano 1-SAMPLES/epiano-96-127.wav

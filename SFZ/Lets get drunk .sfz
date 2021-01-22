@@ -1,426 +1,426 @@
 // this file was generated from Lets get drunk .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
+<group> key=36  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=228 end=306111 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-36-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1519 end=306431 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-36-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=382 end=308095 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-36-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=491 end=304383 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-36-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=394 end=307327 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-36-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=229 end=304063 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-36-127.wav
-<group> key=37  pitch_keytrack=1
+<group> key=37  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1275 end=307839 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-37-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1275 end=304831 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-37-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=64 end=307711 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-37-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=440 end=304319 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-37-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=371 end=306175 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-37-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=314 end=304639 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-37-127.wav
-<group> key=38  pitch_keytrack=1
+<group> key=38  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1467 end=304447 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-38-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=714 end=308671 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-38-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=421 end=305471 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-38-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=379 end=308415 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-38-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=330 end=307711 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-38-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=331 end=306431 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-38-127.wav
-<group> key=39  pitch_keytrack=1
+<group> key=39  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=380 end=304191 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-39-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1254 end=304447 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-39-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=415 end=307903 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-39-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=345 end=303295 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-39-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=353 end=307007 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-39-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=369 end=306111 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-39-127.wav
-<group> key=40  pitch_keytrack=1
+<group> key=40  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=347 end=306559 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-40-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=647 end=306431 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-40-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=527 end=308223 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-40-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=334 end=301503 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-40-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=444 end=306239 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-40-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=395 end=305535 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-40-127.wav
-<group> key=41  pitch_keytrack=1
+<group> key=41  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=2112 end=307071 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-41-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1051 end=306943 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-41-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=208 end=308991 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-41-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=382 end=304831 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-41-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=406 end=305663 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-41-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=482 end=305983 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-41-127.wav
-<group> key=42  pitch_keytrack=1
+<group> key=42  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=644 end=306943 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-42-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1030 end=307839 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-42-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=376 end=305087 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-42-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=636 end=308863 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-42-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=128 end=306879 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-42-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=287 end=304639 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-42-127.wav
-<group> key=43  pitch_keytrack=1
+<group> key=43  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=338 end=303103 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-43-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1734 end=305599 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-43-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=282 end=306623 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-43-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=296 end=305087 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-43-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=369 end=305471 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-43-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=322 end=308415 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-43-127.wav
-<group> key=44  pitch_keytrack=1
+<group> key=44  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=378 end=306367 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-44-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1253 end=306623 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-44-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=349 end=306111 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-44-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=466 end=308223 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-44-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=376 end=307519 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-44-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=356 end=305087 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-44-127.wav
-<group> key=45  pitch_keytrack=1
+<group> key=45  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=2008 end=305791 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-45-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1020 end=308287 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-45-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=270 end=306303 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-45-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=303 end=306111 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-45-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=422 end=307967 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-45-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=133 end=304639 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-45-127.wav
-<group> key=46  pitch_keytrack=1
+<group> key=46  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1383 end=302847 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-46-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1367 end=309311 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-46-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=425 end=303743 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-46-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=271 end=303551 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-46-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=249 end=307903 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-46-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=414 end=306687 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-46-127.wav
-<group> key=47  pitch_keytrack=1
+<group> key=47  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1007 end=304639 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-47-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1786 end=304831 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-47-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=372 end=305791 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-47-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=403 end=305919 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-47-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=385 end=305535 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-47-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=355 end=311487 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-47-127.wav
-<group> key=48  pitch_keytrack=1
+<group> key=48  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=311 end=307135 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-48-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1089 end=307775 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-48-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=444 end=305983 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-48-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=392 end=307007 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-48-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=274 end=308543 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-48-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=298 end=306239 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-48-127.wav
-<group> key=49  pitch_keytrack=1
+<group> key=49  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=513 end=304383 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-49-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=320 end=306367 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-49-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=316 end=312895 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-49-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=193 end=305151 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-49-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=366 end=307903 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-49-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=420 end=306623 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-49-127.wav
-<group> key=50  pitch_keytrack=1
+<group> key=50  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1046 end=309567 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-50-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=385 end=304895 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-50-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=466 end=307391 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-50-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=349 end=306431 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-50-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=290 end=307583 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-50-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=813 end=308159 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-50-127.wav
-<group> key=51  pitch_keytrack=1
+<group> key=51  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=301 end=307711 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-51-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=990 end=303167 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-51-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=392 end=306559 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-51-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=474 end=305087 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-51-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=411 end=305855 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-51-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=447 end=306303 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-51-127.wav
-<group> key=52  pitch_keytrack=1
+<group> key=52  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=206 end=306431 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-52-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=877 end=305215 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-52-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=318 end=309759 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-52-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=395 end=303039 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-52-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=288 end=307455 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-52-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=342 end=306431 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-52-127.wav
-<group> key=53  pitch_keytrack=1
+<group> key=53  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=2045 end=307839 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-53-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=863 end=309951 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-53-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=379 end=308095 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-53-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=368 end=305983 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-53-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=394 end=307583 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-53-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=404 end=304447 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-53-127.wav
-<group> key=54  pitch_keytrack=1
+<group> key=54  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1733 end=304959 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-54-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=417 end=307007 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-54-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=547 end=306239 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-54-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=211 end=308415 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-54-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=277 end=307199 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-54-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=263 end=304511 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-54-127.wav
-<group> key=55  pitch_keytrack=1
+<group> key=55  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1245 end=307327 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-55-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1256 end=304447 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-55-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=487 end=307455 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-55-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=128 end=303871 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-55-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=422 end=305727 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-55-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=276 end=306431 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-55-127.wav
-<group> key=56  pitch_keytrack=1
+<group> key=56  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=311 end=306815 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-56-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1403 end=306047 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-56-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=256 end=308735 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-56-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=378 end=303807 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-56-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=341 end=309503 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-56-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=337 end=305023 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-56-127.wav
-<group> key=57  pitch_keytrack=1
+<group> key=57  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1496 end=306111 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-57-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=735 end=308159 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-57-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=300 end=306111 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-57-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=377 end=304447 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-57-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=280 end=305599 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-57-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=306 end=301119 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-57-127.wav
-<group> key=58  pitch_keytrack=1
+<group> key=58  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1011 end=308095 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-58-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=874 end=306303 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-58-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=585 end=306687 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-58-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=374 end=304319 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-58-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=261 end=308095 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-58-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=391 end=304127 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-58-127.wav
-<group> key=59  pitch_keytrack=1
+<group> key=59  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1376 end=307263 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-59-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1534 end=305151 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-59-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=595 end=308223 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-59-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=487 end=308031 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-59-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=309 end=307199 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-59-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=426 end=306239 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-59-127.wav
-<group> key=60  pitch_keytrack=1
+<group> key=60  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=383 end=309759 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-60-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1293 end=306623 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-60-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=438 end=308351 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-60-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=397 end=303615 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-60-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=424 end=307903 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-60-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=380 end=304575 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-60-127.wav
-<group> key=61  pitch_keytrack=1
+<group> key=61  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1322 end=305855 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-61-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1144 end=309951 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-61-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=367 end=307967 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-61-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=485 end=303679 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-61-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=411 end=308351 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-61-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=463 end=303167 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-61-127.wav
-<group> key=62  pitch_keytrack=1
+<group> key=62  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1995 end=306815 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-62-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1151 end=309631 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-62-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=354 end=305791 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-62-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=411 end=303807 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-62-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=340 end=309887 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-62-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=361 end=303935 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-62-127.wav
-<group> key=63  pitch_keytrack=1
+<group> key=63  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1484 end=310463 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-63-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=394 end=306047 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-63-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=349 end=307135 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-63-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=459 end=303871 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-63-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=355 end=308607 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-63-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=329 end=309055 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-63-127.wav
-<group> key=64  pitch_keytrack=1
+<group> key=64  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=373 end=308351 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-64-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1135 end=307327 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-64-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=518 end=308607 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-64-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=486 end=302719 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-64-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=362 end=307903 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-64-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=391 end=305599 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-64-127.wav
-<group> key=65  pitch_keytrack=1
+<group> key=65  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1407 end=303295 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-65-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=694 end=306879 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-65-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=301 end=308607 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-65-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=284 end=303679 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-65-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=368 end=305599 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-65-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=389 end=304383 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-65-127.wav
-<group> key=66  pitch_keytrack=1
+<group> key=66  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=599 end=305919 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-66-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=868 end=307903 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-66-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=458 end=305599 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-66-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=333 end=305727 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-66-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=352 end=309183 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-66-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=373 end=304063 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-66-127.wav
-<group> key=67  pitch_keytrack=1
+<group> key=67  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1110 end=309183 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-67-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1310 end=306239 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-67-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=458 end=306303 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-67-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=490 end=302911 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-67-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=318 end=307391 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-67-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=406 end=304255 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-67-127.wav
-<group> key=68  pitch_keytrack=1
+<group> key=68  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=368 end=307903 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-68-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=406 end=305343 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-68-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=355 end=307199 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-68-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=448 end=306111 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-68-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=340 end=307647 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-68-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=364 end=310207 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-68-127.wav
-<group> key=69  pitch_keytrack=1
+<group> key=69  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1092 end=305919 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-69-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=635 end=308863 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-69-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=329 end=307839 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-69-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=349 end=303743 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-69-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=305 end=309695 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-69-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=375 end=304191 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-69-127.wav
-<group> key=70  pitch_keytrack=1
+<group> key=70  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=902 end=308863 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-70-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=578 end=306495 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-70-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=413 end=307263 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-70-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=305 end=305151 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-70-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=257 end=305983 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-70-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=343 end=306623 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-70-127.wav
-<group> key=71  pitch_keytrack=1
+<group> key=71  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=375 end=304703 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-71-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=757 end=305407 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-71-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=418 end=307711 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-71-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=401 end=303807 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-71-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=368 end=306815 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-71-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=386 end=309375 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-71-127.wav
-<group> key=72  pitch_keytrack=1
+<group> key=72  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=310 end=306559 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-72-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=720 end=307071 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-72-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=452 end=307263 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-72-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=390 end=302207 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-72-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=402 end=307455 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-72-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=361 end=308991 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-72-127.wav
-<group> key=73  pitch_keytrack=1
+<group> key=73  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1518 end=302399 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-73-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=687 end=308735 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-73-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=146 end=306687 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-73-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=471 end=306431 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-73-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=342 end=308991 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-73-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=329 end=303999 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-73-127.wav
-<group> key=74  pitch_keytrack=1
+<group> key=74  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=352 end=308223 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-74-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=422 end=307967 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-74-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=454 end=307135 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-74-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=326 end=303743 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-74-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=138 end=307391 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-74-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=305 end=304383 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-74-127.wav
-<group> key=75  pitch_keytrack=1
+<group> key=75  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=416 end=307327 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-75-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=948 end=305023 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-75-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=321 end=309183 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-75-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=365 end=306623 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-75-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=331 end=306879 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-75-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=375 end=305727 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-75-127.wav
-<group> key=76  pitch_keytrack=1
+<group> key=76  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=351 end=308543 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-76-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1066 end=307967 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-76-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=364 end=308479 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-76-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=441 end=302655 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-76-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=351 end=307647 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-76-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=390 end=305087 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-76-127.wav
-<group> key=77  pitch_keytrack=1
+<group> key=77  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1115 end=305151 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-77-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=630 end=305087 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-77-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=156 end=307327 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-77-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=457 end=302847 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-77-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=334 end=307839 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-77-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=313 end=303935 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-77-127.wav
-<group> key=78  pitch_keytrack=1
+<group> key=78  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1014 end=308671 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-78-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=780 end=308287 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-78-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=482 end=304127 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-78-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=416 end=302655 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-78-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=287 end=307967 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-78-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=303 end=306943 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-78-127.wav
-<group> key=79  pitch_keytrack=1
+<group> key=79  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=810 end=303679 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-79-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1130 end=305279 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-79-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=370 end=307007 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-79-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=396 end=307135 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-79-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=389 end=307519 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-79-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=360 end=308095 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-79-127.wav
-<group> key=80  pitch_keytrack=1
+<group> key=80  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=462 end=306751 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-80-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=451 end=304895 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-80-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=346 end=308479 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-80-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=350 end=303103 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-80-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=399 end=311743 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-80-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=388 end=306431 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-80-127.wav
-<group> key=81  pitch_keytrack=1
+<group> key=81  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1219 end=305663 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-81-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=515 end=308223 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-81-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=339 end=309439 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-81-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=444 end=308543 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-81-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=400 end=307135 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-81-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=401 end=302975 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-81-127.wav
-<group> key=82  pitch_keytrack=1
+<group> key=82  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=589 end=304959 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-82-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=552 end=307007 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-82-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=396 end=307455 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-82-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=372 end=307839 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-82-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=347 end=309951 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-82-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=311 end=302591 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-82-127.wav
-<group> key=83  pitch_keytrack=1
+<group> key=83  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=639 end=308799 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-83-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1151 end=306111 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-83-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=502 end=308351 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-83-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=361 end=308223 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-83-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=382 end=304703 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-83-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=315 end=304639 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-83-127.wav
-<group> key=84  pitch_keytrack=1
+<group> key=84  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=248 end=306623 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-84-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=794 end=309247 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-84-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=352 end=306175 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-84-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=424 end=305663 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-84-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=355 end=305727 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-84-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=374 end=306303 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-84-127.wav
-<group> key=85  pitch_keytrack=1
+<group> key=85  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1757 end=304703 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-85-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=766 end=307071 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-85-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=376 end=307967 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-85-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=340 end=307455 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-85-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=416 end=306303 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-85-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=349 end=304127 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-85-127.wav
-<group> key=86  pitch_keytrack=1
+<group> key=86  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=354 end=307519 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-86-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=390 end=307967 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-86-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=469 end=306175 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-86-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=370 end=307967 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-86-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=179 end=309055 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-86-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=391 end=304831 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-86-127.wav
-<group> key=87  pitch_keytrack=1
+<group> key=87  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=516 end=306047 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-87-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1123 end=304511 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-87-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=362 end=306559 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-87-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=345 end=309439 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-87-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=336 end=304511 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-87-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=392 end=307711 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-87-127.wav
-<group> key=88  pitch_keytrack=1
+<group> key=88  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=334 end=307839 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-88-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=882 end=307967 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-88-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=411 end=306943 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-88-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=362 end=307519 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-88-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=346 end=305279 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-88-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=330 end=307647 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-88-127.wav
-<group> key=89  pitch_keytrack=1
+<group> key=89  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=756 end=303231 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-89-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=536 end=307199 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-89-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=341 end=307071 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-89-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=350 end=315455 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-89-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=318 end=308095 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-89-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=369 end=306879 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-89-127.wav
-<group> key=90  pitch_keytrack=1
+<group> key=90  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=868 end=305983 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-90-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=800 end=313791 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-90-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=508 end=308415 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-90-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=296 end=305727 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-90-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=358 end=311871 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-90-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=377 end=310015 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-90-127.wav
-<group> key=91  pitch_keytrack=1
+<group> key=91  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=480 end=311167 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-91-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1272 end=306239 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-91-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=400 end=305407 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-91-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=955 end=307647 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-91-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=332 end=308095 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-91-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=336 end=308223 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-91-127.wav
-<group> key=92  pitch_keytrack=1
+<group> key=92  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=357 end=307903 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-92-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=596 end=306879 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-92-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=426 end=304255 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-92-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=351 end=305663 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-92-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=329 end=305215 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-92-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=356 end=307071 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-92-127.wav
-<group> key=93  pitch_keytrack=1
+<group> key=93  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=1187 end=305727 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-93-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=431 end=309439 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-93-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=470 end=310015 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-93-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=379 end=304767 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-93-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=376 end=309055 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-93-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=338 end=305919 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-93-127.wav
-<group> key=94  pitch_keytrack=1
+<group> key=94  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=508 end=307583 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-94-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1163 end=305855 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-94-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=509 end=307839 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-94-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=369 end=309503 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-94-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=333 end=311039 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-94-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=320 end=303295 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-94-127.wav
-<group> key=95  pitch_keytrack=1
+<group> key=95  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=819 end=312063 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-95-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1167 end=305535 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-95-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=447 end=305727 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-95-64.wav
 	<region> lovel=065 hivel=085 amp_velcurve_085=1 offset=430 end=308031 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-95-85.wav
 	<region> lovel=086 hivel=106 amp_velcurve_106=1 offset=355 end=305855 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-95-106.wav
 	<region> lovel=107 hivel=127 amp_velcurve_127=1 offset=351 end=307455 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-95-127.wav
-<group> key=96  pitch_keytrack=1
+<group> key=96  
 	<region> lovel=000 hivel=021 amp_velcurve_021=1 offset=307 end=308351 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-96-21.wav
 	<region> lovel=022 hivel=042 amp_velcurve_042=1 offset=1091 end=304319 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-96-42.wav
 	<region> lovel=043 hivel=064 amp_velcurve_064=1 offset=320 end=308415 sample=../Audio/Lets get drunk 1-SAMPLES/Lets get drunk-96-64.wav

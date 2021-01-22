@@ -1,124 +1,124 @@
 // this file was generated from Funky Keys .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
+<group> key=36  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=575 end=290303 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-36-127.wav
-<group> key=37  pitch_keytrack=1
+<group> key=37  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=564 end=289279 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-37-127.wav
-<group> key=38  pitch_keytrack=1
+<group> key=38  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=356 end=287743 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-38-127.wav
-<group> key=39  pitch_keytrack=1
+<group> key=39  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=464 end=288511 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-39-127.wav
-<group> key=40  pitch_keytrack=1
+<group> key=40  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=511 end=291327 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-40-127.wav
-<group> key=41  pitch_keytrack=1
+<group> key=41  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=423 end=291327 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-41-127.wav
-<group> key=42  pitch_keytrack=1
+<group> key=42  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=409 end=286463 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-42-127.wav
-<group> key=43  pitch_keytrack=1
+<group> key=43  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=595 end=291583 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-43-127.wav
-<group> key=44  pitch_keytrack=1
+<group> key=44  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=458 end=288255 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-44-127.wav
-<group> key=45  pitch_keytrack=1
+<group> key=45  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=344 end=289535 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-45-127.wav
-<group> key=46  pitch_keytrack=1
+<group> key=46  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=383 end=287231 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-46-127.wav
-<group> key=47  pitch_keytrack=1
+<group> key=47  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=436 end=287999 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-47-127.wav
-<group> key=48  pitch_keytrack=1
+<group> key=48  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=446 end=289535 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-48-127.wav
-<group> key=49  pitch_keytrack=1
+<group> key=49  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=304 end=291583 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-49-127.wav
-<group> key=50  pitch_keytrack=1
+<group> key=50  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=458 end=287231 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-50-127.wav
-<group> key=51  pitch_keytrack=1
+<group> key=51  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=431 end=288255 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-51-127.wav
-<group> key=52  pitch_keytrack=1
+<group> key=52  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=535 end=286975 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-52-127.wav
-<group> key=53  pitch_keytrack=1
+<group> key=53  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=328 end=289791 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-53-127.wav
-<group> key=54  pitch_keytrack=1
+<group> key=54  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=505 end=287743 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-54-127.wav
-<group> key=55  pitch_keytrack=1
+<group> key=55  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=455 end=288511 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-55-127.wav
-<group> key=56  pitch_keytrack=1
+<group> key=56  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=449 end=288511 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-56-127.wav
-<group> key=57  pitch_keytrack=1
+<group> key=57  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=323 end=288767 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-57-127.wav
-<group> key=58  pitch_keytrack=1
+<group> key=58  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=490 end=286719 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-58-127.wav
-<group> key=59  pitch_keytrack=1
+<group> key=59  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=322 end=286463 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-59-127.wav
-<group> key=60  pitch_keytrack=1
+<group> key=60  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=358 end=287743 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-60-127.wav
-<group> key=61  pitch_keytrack=1
+<group> key=61  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=471 end=287231 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-61-127.wav
-<group> key=62  pitch_keytrack=1
+<group> key=62  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=607 end=286719 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-62-127.wav
-<group> key=63  pitch_keytrack=1
+<group> key=63  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=413 end=286463 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-63-127.wav
-<group> key=64  pitch_keytrack=1
+<group> key=64  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=571 end=287231 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-64-127.wav
-<group> key=65  pitch_keytrack=1
+<group> key=65  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=385 end=288255 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-65-127.wav
-<group> key=66  pitch_keytrack=1
+<group> key=66  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=428 end=288511 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-66-127.wav
-<group> key=67  pitch_keytrack=1
+<group> key=67  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=390 end=286975 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-67-127.wav
-<group> key=68  pitch_keytrack=1
+<group> key=68  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=459 end=287743 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-68-127.wav
-<group> key=69  pitch_keytrack=1
+<group> key=69  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=422 end=287487 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-69-127.wav
-<group> key=70  pitch_keytrack=1
+<group> key=70  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=344 end=286975 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-70-127.wav
-<group> key=71  pitch_keytrack=1
+<group> key=71  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=488 end=288767 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-71-127.wav
-<group> key=72  pitch_keytrack=1
+<group> key=72  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=522 end=287231 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-72-127.wav
-<group> key=73  pitch_keytrack=1
+<group> key=73  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=563 end=289023 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-73-127.wav
-<group> key=74  pitch_keytrack=1
+<group> key=74  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=495 end=253695 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-74-127.wav
-<group> key=75  pitch_keytrack=1
+<group> key=75  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=458 end=255487 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-75-127.wav
-<group> key=76  pitch_keytrack=1
+<group> key=76  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=429 end=232447 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-76-127.wav
-<group> key=77  pitch_keytrack=1
+<group> key=77  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=445 end=234495 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-77-127.wav
-<group> key=78  pitch_keytrack=1
+<group> key=78  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=345 end=233471 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-78-127.wav
-<group> key=79  pitch_keytrack=1
+<group> key=79  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=370 end=207359 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-79-127.wav
-<group> key=80  pitch_keytrack=1
+<group> key=80  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=484 end=208127 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-80-127.wav
-<group> key=81  pitch_keytrack=1
+<group> key=81  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=361 end=208639 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-81-127.wav
-<group> key=82  pitch_keytrack=1
+<group> key=82  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=278 end=185855 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-82-127.wav
-<group> key=83  pitch_keytrack=1
+<group> key=83  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=482 end=185599 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-83-127.wav
-<group> key=84  pitch_keytrack=1
+<group> key=84  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=511 end=172543 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-84-127.wav
-<group> key=85  pitch_keytrack=1
+<group> key=85  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=479 end=172287 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-85-127.wav
-<group> key=86  pitch_keytrack=1
+<group> key=86  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=524 end=167423 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-86-127.wav
-<group> key=87  pitch_keytrack=1
+<group> key=87  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=497 end=152575 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-87-127.wav
-<group> key=88  pitch_keytrack=1
+<group> key=88  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=358 end=149759 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-88-127.wav
-<group> key=89  pitch_keytrack=1
+<group> key=89  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=500 end=156927 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-89-127.wav
-<group> key=90  pitch_keytrack=1
+<group> key=90  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=319 end=136959 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-90-127.wav
-<group> key=91  pitch_keytrack=1
+<group> key=91  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=455 end=139263 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-91-127.wav
-<group> key=92  pitch_keytrack=1
+<group> key=92  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=486 end=126719 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-92-127.wav
-<group> key=93  pitch_keytrack=1
+<group> key=93  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=439 end=126975 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-93-127.wav
-<group> key=94  pitch_keytrack=1
+<group> key=94  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=364 end=125439 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-94-127.wav
-<group> key=95  pitch_keytrack=1
+<group> key=95  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=442 end=114175 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-95-127.wav
-<group> key=96  pitch_keytrack=1
+<group> key=96  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=463 end=110335 sample=../Audio/Funky Keys 1-SAMPLES/Funky Keys-96-127.wav

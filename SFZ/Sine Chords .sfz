@@ -1,124 +1,124 @@
 // this file was generated from Sine Chords .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36  pitch_keytrack=1
+<group> key=36  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=595 end=590847 loop_mode=loop_sustain loop_start=60317 loop_end=291798 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-36-127.wav
-<group> key=37  pitch_keytrack=1
+<group> key=37  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=506 end=590335 loop_mode=loop_sustain loop_start=87971 loop_end=356075 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-37-127.wav
-<group> key=38  pitch_keytrack=1
+<group> key=38  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=540 end=590335 loop_mode=loop_sustain loop_start=243378 loop_end=332950 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-38-127.wav
-<group> key=39  pitch_keytrack=1
+<group> key=39  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=388 end=590591 loop_mode=loop_sustain loop_start=34115 loop_end=204953 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-39-127.wav
-<group> key=40  pitch_keytrack=1
+<group> key=40  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=627 end=591103 loop_mode=loop_sustain loop_start=159929 loop_end=392680 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-40-127.wav
-<group> key=41  pitch_keytrack=1
+<group> key=41  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=426 end=589311 loop_mode=loop_sustain loop_start=71138 loop_end=391585 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-41-127.wav
-<group> key=42  pitch_keytrack=1
+<group> key=42  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=420 end=592383 loop_mode=loop_sustain loop_start=305943 loop_end=427107 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-42-127.wav
-<group> key=43  pitch_keytrack=1
+<group> key=43  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=759 end=589311 loop_mode=loop_sustain loop_start=288114 loop_end=407861 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-43-127.wav
-<group> key=44  pitch_keytrack=1
+<group> key=44  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=344 end=591359 loop_mode=loop_sustain loop_start=201461 loop_end=365453 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-44-127.wav
-<group> key=45  pitch_keytrack=1
+<group> key=45  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=456 end=589311 loop_mode=loop_sustain loop_start=87467 loop_end=244340 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-45-127.wav
-<group> key=46  pitch_keytrack=1
+<group> key=46  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=572 end=587519 loop_mode=loop_sustain loop_start=137422 loop_end=257131 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-46-127.wav
-<group> key=47  pitch_keytrack=1
+<group> key=47  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=535 end=590847 loop_mode=loop_sustain loop_start=206569 loop_end=403132 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-47-127.wav
-<group> key=48  pitch_keytrack=1
+<group> key=48  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=633 end=588799 loop_mode=loop_sustain loop_start=91188 loop_end=208946 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-48-127.wav
-<group> key=49  pitch_keytrack=1
+<group> key=49  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=626 end=589823 loop_mode=loop_sustain loop_start=297934 loop_end=407192 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-49-127.wav
-<group> key=50  pitch_keytrack=1
+<group> key=50  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=435 end=590847 loop_mode=loop_sustain loop_start=133786 loop_end=381444 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-50-127.wav
-<group> key=51  pitch_keytrack=1
+<group> key=51  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=555 end=586495 loop_mode=loop_sustain loop_start=237665 loop_end=386035 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-51-127.wav
-<group> key=52  pitch_keytrack=1
+<group> key=52  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=673 end=589823 loop_mode=loop_sustain loop_start=251485 loop_end=376252 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-52-127.wav
-<group> key=53  pitch_keytrack=1
+<group> key=53  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=659 end=589311 loop_mode=loop_sustain loop_start=123194 loop_end=278814 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-53-127.wav
-<group> key=54  pitch_keytrack=1
+<group> key=54  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=537 end=589823 loop_mode=loop_sustain loop_start=16322 loop_end=235579 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-54-127.wav
-<group> key=55  pitch_keytrack=1
+<group> key=55  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=495 end=589567 loop_mode=loop_sustain loop_start=96527 loop_end=413793 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-55-127.wav
-<group> key=56  pitch_keytrack=1
+<group> key=56  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=887 end=591103 loop_mode=loop_sustain loop_start=212366 loop_end=376041 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-56-127.wav
-<group> key=57  pitch_keytrack=1
+<group> key=57  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=315 end=592127 loop_mode=loop_sustain loop_start=57316 loop_end=244869 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-57-127.wav
-<group> key=58  pitch_keytrack=1
+<group> key=58  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=378 end=590847 loop_mode=loop_sustain loop_start=276158 loop_end=397147 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-58-127.wav
-<group> key=59  pitch_keytrack=1
+<group> key=59  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=631 end=588287 loop_mode=loop_sustain loop_start=172757 loop_end=328573 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-59-127.wav
-<group> key=60  pitch_keytrack=1
+<group> key=60  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=452 end=588543 loop_mode=loop_sustain loop_start=178092 loop_end=303050 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-60-127.wav
-<group> key=61  pitch_keytrack=1
+<group> key=61  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=611 end=588287 loop_mode=loop_sustain loop_start=238512 loop_end=366354 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-61-127.wav
-<group> key=62  pitch_keytrack=1
+<group> key=62  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=703 end=589055 loop_mode=loop_sustain loop_start=271252 loop_end=391924 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-62-127.wav
-<group> key=63  pitch_keytrack=1
+<group> key=63  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=474 end=589055 loop_mode=loop_sustain loop_start=195354 loop_end=316049 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-63-127.wav
-<group> key=64  pitch_keytrack=1
+<group> key=64  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=463 end=588287 loop_mode=loop_sustain loop_start=99865 loop_end=191829 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-64-127.wav
-<group> key=65  pitch_keytrack=1
+<group> key=65  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=500 end=589823 loop_mode=loop_sustain loop_start=284337 loop_end=431921 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-65-127.wav
-<group> key=66  pitch_keytrack=1
+<group> key=66  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=426 end=590847 loop_mode=loop_sustain loop_start=224330 loop_end=386405 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-66-127.wav
-<group> key=67  pitch_keytrack=1
+<group> key=67  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=390 end=588799 loop_mode=loop_sustain loop_start=129717 loop_end=220208 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-67-127.wav
-<group> key=68  pitch_keytrack=1
+<group> key=68  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=915 end=590079 loop_mode=loop_sustain loop_start=207377 loop_end=332103 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-68-127.wav
-<group> key=69  pitch_keytrack=1
+<group> key=69  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=562 end=590591 loop_mode=loop_sustain loop_start=139250 loop_end=267118 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-69-127.wav
-<group> key=70  pitch_keytrack=1
+<group> key=70  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=564 end=589055 loop_mode=loop_sustain loop_start=14790 loop_end=118827 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-70-127.wav
-<group> key=71  pitch_keytrack=1
+<group> key=71  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=576 end=589055 loop_mode=loop_sustain loop_start=265822 loop_end=390453 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-71-127.wav
-<group> key=72  pitch_keytrack=1
+<group> key=72  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=302 end=590847 loop_mode=loop_sustain loop_start=184830 loop_end=349279 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-72-127.wav
-<group> key=73  pitch_keytrack=1
+<group> key=73  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=489 end=588031 loop_mode=loop_sustain loop_start=157280 loop_end=332709 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-73-127.wav
-<group> key=74  pitch_keytrack=1
+<group> key=74  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=341 end=589823 loop_mode=loop_sustain loop_start=325645 loop_end=418124 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-74-127.wav
-<group> key=75  pitch_keytrack=1
+<group> key=75  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=532 end=588799 loop_mode=loop_sustain loop_start=144664 loop_end=253731 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-75-127.wav
-<group> key=76  pitch_keytrack=1
+<group> key=76  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=738 end=589823 loop_mode=loop_sustain loop_start=128477 loop_end=296549 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-76-127.wav
-<group> key=77  pitch_keytrack=1
+<group> key=77  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=549 end=588799 loop_mode=loop_sustain loop_start=70328 loop_end=189169 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-77-127.wav
-<group> key=78  pitch_keytrack=1
+<group> key=78  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=486 end=588543 loop_mode=loop_sustain loop_start=141189 loop_end=246436 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-78-127.wav
-<group> key=79  pitch_keytrack=1
+<group> key=79  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=530 end=592127 loop_mode=loop_sustain loop_start=235802 loop_end=354166 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-79-127.wav
-<group> key=80  pitch_keytrack=1
+<group> key=80  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=398 end=589567 loop_mode=loop_sustain loop_start=279375 loop_end=408474 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-80-127.wav
-<group> key=81  pitch_keytrack=1
+<group> key=81  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=335 end=588799 loop_mode=loop_sustain loop_start=86812 loop_end=233924 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-81-127.wav
-<group> key=82  pitch_keytrack=1
+<group> key=82  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=501 end=590335 loop_mode=loop_sustain loop_start=167134 loop_end=264674 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-82-127.wav
-<group> key=83  pitch_keytrack=1
+<group> key=83  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=498 end=588543 loop_mode=loop_sustain loop_start=11143 loop_end=278239 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-83-127.wav
-<group> key=84  pitch_keytrack=1
+<group> key=84  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=426 end=588543 loop_mode=loop_sustain loop_start=20750 loop_end=110807 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-84-127.wav
-<group> key=85  pitch_keytrack=1
+<group> key=85  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=584 end=588287 loop_mode=loop_sustain loop_start=79389 loop_end=243638 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-85-127.wav
-<group> key=86  pitch_keytrack=1
+<group> key=86  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=549 end=590335 loop_mode=loop_sustain loop_start=119571 loop_end=269981 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-86-127.wav
-<group> key=87  pitch_keytrack=1
+<group> key=87  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=537 end=589311 loop_mode=loop_sustain loop_start=169580 loop_end=294771 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-87-127.wav
-<group> key=88  pitch_keytrack=1
+<group> key=88  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=398 end=589311 loop_mode=loop_sustain loop_start=172200 loop_end=264332 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-88-127.wav
-<group> key=89  pitch_keytrack=1
+<group> key=89  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=503 end=592895 loop_mode=loop_sustain loop_start=49109 loop_end=141285 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-89-127.wav
-<group> key=90  pitch_keytrack=1
+<group> key=90  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=401 end=589567 loop_mode=loop_sustain loop_start=69605 loop_end=196941 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-90-127.wav
-<group> key=91  pitch_keytrack=1
+<group> key=91  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=329 end=589055 loop_mode=loop_sustain loop_start=293306 loop_end=413304 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-91-127.wav
-<group> key=92  pitch_keytrack=1
+<group> key=92  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=355 end=590847 loop_mode=loop_sustain loop_start=146376 loop_end=270051 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-92-127.wav
-<group> key=93  pitch_keytrack=1
+<group> key=93  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=553 end=588287 loop_mode=loop_sustain loop_start=156570 loop_end=285989 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-93-127.wav
-<group> key=94  pitch_keytrack=1
+<group> key=94  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=410 end=590335 loop_mode=loop_sustain loop_start=36347 loop_end=150286 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-94-127.wav
-<group> key=95  pitch_keytrack=1
+<group> key=95  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=429 end=589311 loop_mode=loop_sustain loop_start=113588 loop_end=227276 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-95-127.wav
-<group> key=96  pitch_keytrack=1
+<group> key=96  
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=568 end=592383 loop_mode=loop_sustain loop_start=230695 loop_end=328091 sample=../Audio/Sine Chords 1-SAMPLES/Sine Chords-96-127.wav

@@ -1,58 +1,58 @@
 // this file was generated from Sweet Disharmony .exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=1 hikey=36 pitch_keycenter=36 seq_length=2 seq_position=1 pitch_keytrack=1
+<group>lokey=1 hikey=36 pitch_keycenter=36 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-69-127 1.wav
-<group> key=37 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=37 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-70-127 1.wav
-<group> key=38 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=38 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-71-127 1.wav
-<group> key=39 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=39 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-72-127 1.wav
-<group> key=40 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=40 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-73-127 1.wav
-<group> key=41 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=41 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-74-127 1.wav
-<group> key=42 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=42 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-75-127 1.wav
-<group> key=43 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=43 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-76-127 1.wav
-<group> key=44 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=44 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-77-127 1.wav
-<group> key=45 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=45 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-78-127 1.wav
-<group> key=46 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=46 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-79-127 1.wav
-<group> key=47 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=47 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-80-127 1.wav
-<group> key=48 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=48 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-81-127 1.wav
-<group> key=49 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=49 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-82-127 1.wav
-<group> key=50 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=50 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-83-127 1.wav
-<group> key=51 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=51 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-84-127 1.wav
-<group> key=52 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=52 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-85-127 1.wav
-<group> key=53 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=53 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-86-127 1.wav
-<group> key=54 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=54 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-87-127 1.wav
-<group> key=55 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=55 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-88-127 1.wav
-<group> key=56 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=56 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-89-127 1.wav
-<group> key=57 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=57 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-90-127 1.wav
-<group> key=58 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=58 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-91-127 1.wav
-<group> key=59 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=59 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-92-127 1.wav
-<group> key=60 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=60 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-93-127 1.wav
-<group> key=61 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=61 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-94-127 1.wav
-<group> key=62 seq_length=2 seq_position=1 pitch_keytrack=1
+<group> key=62 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-95-127 1.wav
-<group>lokey=63 hikey=123 pitch_keycenter=63 seq_length=2 seq_position=1 pitch_keytrack=1
+<group>lokey=63 hikey=123 pitch_keycenter=63 seq_length=2 seq_position=1 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 sample=../Audio/Sweet Disharmony 1-SAMPLES/Sweet Disharmony-96-127 1.wav
