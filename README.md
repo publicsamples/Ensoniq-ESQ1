@@ -8,7 +8,7 @@ A 3 oscillator digital/analogue hybrid released in the mid 80s.
 
 **This collection requires you to download the audio seperately**
 
-[Download Audio from Dropbox](https://www.dropbox.com/sh/0nd1dpcj7o0x76f/AACgrVHBarmiboc1ApP9RdCIa?dl=0)
+[Download Audio](https://github.com/publicsamples/Ensoniq-ESQ1/releases/tag/1.0)
 
 
 # Loading
